@@ -19,15 +19,15 @@ def fetch_and_save(name, url):
         return None
 
 def generate_index(feed_names):
-    base_url = "https://jessicabatke.github.io/news-rss/feeds/"  # ← replace with your actual GitHub Pages URL
+    base_url = "https://jessicabatke.github.io/news-rss/feeds/"  # Replace with your actual URL
     with open("index.html", "w", encoding="utf-8") as f:
         f.write("<!DOCTYPE html>\n<html>\n<head>\n<title>RSS Feed URLs</title>\n</head>\n<body>\n")
         f.write("<h1>RSS Feed URLs (copy these into your reader)</h1>\n")
-        f.write("<ul>\n")
         for name in sorted(feed_names):
             full_url = f"{base_url}{name}.xml"
-            f.write(f"<li><code>{full_url}</code></li>\n")
-        f.write("</ul>\n</body>\n</html>")
+            f.write(f"<div><code>{full_url}</code></div>\n")
+        f.write("</body>\n</html>")
+
 
 
 def main():
