@@ -2,6 +2,7 @@ import json
 import requests
 import os
 import xml.etree.ElementTree as ET
+import re
 
 FEED_DIR = "feeds"
 
@@ -20,7 +21,9 @@ def fetch_and_save(name, url):
         if channel is not None:
             title_elem = channel.find("title")
             if title_elem is not None:
-                title_elem.text = name  # e.g., "NYT China"
+                # Remove the outlet name only (usually after " - <Outlet Name>")
+                stripped_title = re.sub(r" - ([\w\s]+)$", "", title_elem.text)
+                title_elem.text = stripped_title
 
             desc_elem = channel.find("description")
             if desc_elem is not None:
