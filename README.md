@@ -9,7 +9,7 @@ some RSS feed creators have gotten crappy
 
 thus this repo, which will pull use Google News RSS xml as a base for the news outlets and topics you're interested in and re-publish them as xml files on Github.  you can then subscribe to the xml feed here, avoiding the association with Google News
 
-# what to do
+## what to do
 add an entry to feeds.json for any new sources you'd like to follow (make sure your json syntax is correct)
 
 the code will make xml files for each entry in the json, output them to the /feeds folder, and also generate a copy-pasteable list of links to said feeds. just enter those links into your RSS reader
