@@ -26,11 +26,12 @@ jobs:
 
       - name: Run fetch script
         run: python fetch.py
-
-      - name: Commit and push feed.xml
+        
+      - name: Commit and push all XML feeds
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
-          git add feed.xml
-          git commit -m "Update feed.xml" || echo "No changes"
+          git add *.xml
+          git commit -m "Update RSS feeds" || echo "No changes"
           git push
+
