@@ -1,6 +1,7 @@
 import json
 import requests
 import os
+import xml.etree.ElementTree as ET
 
 FEED_DIR = "feeds"
 
@@ -10,13 +11,32 @@ def fetch_and_save(name, url):
         r = requests.get(url)
         r.raise_for_status()
         os.makedirs(FEED_DIR, exist_ok=True)
+
+        # Parse the XML content
+        root = ET.fromstring(r.text)
+
+        # Modify the <title> and <description> in the <channel>
+        channel = root.find("channel")
+        if channel is not None:
+            title_elem = channel.find("title")
+            if title_elem is not None:
+                title_elem.text = name  # e.g., "NYT China"
+
+            desc_elem = channel.find("description")
+            if desc_elem is not None:
+                desc_elem.text = f"Custom RSS feed for {name}"
+
+        # Save to file
         filename = os.path.join(FEED_DIR, f"{name}.xml")
-        with open(filename, "w", encoding="utf-8") as f:
-            f.write(r.text)
+        tree = ET.ElementTree(root)
+        tree.write(filename, encoding="utf-8", xml_declaration=True)
+
         return name
+
     except Exception as e:
         print(f"Failed to fetch {name}: {e}")
         return None
+
 
 def generate_index(feed_names):
     base_url = "https://jessicabatke.github.io/news-rss/feeds/"  # Replace with your actual URL
@@ -27,8 +47,6 @@ def generate_index(feed_names):
             full_url = f"{base_url}{name}.xml"
             f.write(f"<div><code>{full_url}</code></div>\n")
         f.write("</body>\n</html>")
-
-
 
 def main():
     with open("feeds.json", "r") as f:
