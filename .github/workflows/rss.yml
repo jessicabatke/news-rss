@@ -2,7 +2,7 @@ name: Update RSS Feed
 
 on:
   schedule:
-    - cron: "49 */1 * * *"  # every hour
+    - cron: "55 */1 * * *"  # every hour
   workflow_dispatch:       # allow manual run
   push:
     branches:
