@@ -1,0 +1,6 @@
+{
+  "nyt-china": "https://news.google.com/rss/search?q=site:nytimes.com+china",
+  "wsj-china": "https://news.google.com/rss/search?q=site:wsj.com+china",
+  "politico-china": "https://news.google.com/rss/search?q=site:politico.com+china".
+  "FA-china": "https://news.google.com/rss/search?q=site:foreignaffairs.com+china"
+}
