@@ -12,6 +12,4 @@ thus this repo, which will pull use Google News RSS xml as a base for the news o
 # what to do
 add an entry to feeds.json for any new sources you'd like to follow (make sure your json syntax is correct)
 
-if you want to test it, change the cronjob in .github/workflows/rss.yml to run at a minute close to the current time
-
 the code will make xml files for each entry in the json, output them to the /feeds folder, and also generate a copy-pasteable list of links to said feeds. just enter those links into your RSS reader
