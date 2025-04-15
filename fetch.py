@@ -19,12 +19,16 @@ def fetch_and_save(name, url):
         return None
 
 def generate_index(feed_names):
+    base_url = "https://jessicabatke.github.io/news-rss/feeds/"  # ← replace with your actual GitHub Pages URL
     with open("index.html", "w", encoding="utf-8") as f:
-        f.write("<!DOCTYPE html>\n<html>\n<head>\n<title>Custom RSS Feeds</title>\n</head>\n<body>\n")
-        f.write("<h1>Custom RSS Feeds</h1>\n<ul>\n")
+        f.write("<!DOCTYPE html>\n<html>\n<head>\n<title>RSS Feed URLs</title>\n</head>\n<body>\n")
+        f.write("<h1>RSS Feed URLs (copy these into your reader)</h1>\n")
+        f.write("<ul>\n")
         for name in sorted(feed_names):
-            f.write(f'<li><a href="feeds/{name}.xml">{name}</a></li>\n')
+            full_url = f"{base_url}{name}.xml"
+            f.write(f"<li><code>{full_url}</code></li>\n")
         f.write("</ul>\n</body>\n</html>")
+
 
 def main():
     with open("feeds.json", "r") as f:
