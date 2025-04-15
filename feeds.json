@@ -1,7 +1,7 @@
 {
-  "nyt-china": "https://news.google.com/rss/search?q=site:nytimes.com+china",
-  "wsj-china": "https://news.google.com/rss/search?q=site:wsj.com+china",
-  "politico-china": "https://news.google.com/rss/search?q=site:politico.com+china",
-  "FA-china": "https://news.google.com/rss/search?q=site:foreignaffairs.com+china",
-  "wapo-china": "https://news.google.com/rss/search?q=site:washingtonpost.com+china"
+  "NYT China": "https://news.google.com/rss/search?q=site:nytimes.com+china",
+  "WSJ China": "https://news.google.com/rss/search?q=site:wsj.com+china",
+  "Politico China": "https://news.google.com/rss/search?q=site:politico.com+china",
+  "FA China": "https://news.google.com/rss/search?q=site:foreignaffairs.com+china",
+  "WaPo China": "https://news.google.com/rss/search?q=site:washingtonpost.com+china"
 }
