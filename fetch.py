@@ -6,6 +6,13 @@ import re
 
 FEED_DIR = "feeds"
 
+import os
+import re
+import requests
+import xml.etree.ElementTree as ET
+
+FEED_DIR = "feeds"  # make sure this is defined somewhere globally or adjust accordingly
+
 def fetch_and_save(name, url):
     try:
         print(f"Fetching: {url}")
@@ -19,15 +26,24 @@ def fetch_and_save(name, url):
         # Modify the <title> and <description> in the <channel>
         channel = root.find("channel")
         if channel is not None:
+            # Clean the <channel><title>
             title_elem = channel.find("title")
             if title_elem is not None:
-                # Remove the outlet name only (usually after " - <Outlet Name>")
-                stripped_title = re.sub(r" - ([\w\s]+)$", "", title_elem.text)
+                stripped_title = re.sub(r" - [^-]+$", "", title_elem.text or "")
                 title_elem.text = stripped_title
 
+            # Update the <channel><description>
             desc_elem = channel.find("description")
             if desc_elem is not None:
                 desc_elem.text = f"Custom RSS feed for {name}"
+
+            # Loop through <item>s and clean each <title>
+            for item in channel.findall("item"):
+                item_title_elem = item.find("title")
+                if item_title_elem is not None:
+                    original_title = item_title_elem.text or ""
+                    stripped_item_title = re.sub(r" - [^-]+$", "", original_title)
+                    item_title_elem.text = stripped_item_title
 
         # Save to file
         filename = os.path.join(FEED_DIR, f"{name}.xml")
