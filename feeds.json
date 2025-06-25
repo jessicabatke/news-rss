@@ -3,5 +3,6 @@
   "WSJ_China": "https://news.google.com/rss/search?q=site:wsj.com+china",
   "Politico_China": "https://news.google.com/rss/search?q=site:politico.com+china",
   "FA_China": "https://news.google.com/rss/search?q=site:foreignaffairs.com+china",
-  "Guardian_China": "https://news.google.com/rss/search?q=site:theguardian.com+china"
+  "Guardian_China": "https://news.google.com/rss/search?q=site:theguardian.com+china",
+  "CNN_China": "https://news.google.com/rss/search?q=site:cnn.com+china",
 }
