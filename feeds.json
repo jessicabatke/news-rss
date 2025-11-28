@@ -1,5 +1,6 @@
 {
   "NYT_China": "https://news.google.com/rss/search?q=site:nytimes.com+china",
+  "WSJ_China": "https://raw.githubusercontent.com/jessicabatke/WSJ-China/main/china_feed.xml",
   "WSJ_China": "https://news.google.com/rss/search?q=site:wsj.com+china",
   "Politico_China": "https://news.google.com/rss/search?q=site:politico.com+china",
   "FA_China": "https://news.google.com/rss/search?q=site:foreignaffairs.com+china",
