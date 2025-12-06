@@ -5,6 +5,12 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
+      <title>Hong Kong Authorities Summon Foreign Media to Criticize Fire Coverage</title>
+      <link>https://www.wsj.com/world/china/hong-kong-national-security-authorities-summon-foreign-media-over-fire-coverage-e8d4052b</link>
+      <description>Hong Kong’s national-security office summoned representatives of news organizations including The Wall Street Journal to find fault with coverage of the deadly fire at Wang Fuk Court and warn against reporting that would undermine Hong Kong or its authorities.</description>
+      <pubDate>Sat, 06 Dec 2025 18:08:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Trump’s National-Security Strategy Softens Language on China</title>
       <link>https://www.wsj.com/world/china/trumps-national-security-strategy-softens-language-on-china-f121ddb3</link>
       <description>The White House document maintains some tough talk on Taiwan but drops references to Beijing as America’s main challenger.</description>
@@ -57,12 +63,6 @@
       <link>https://www.wsj.com/articles/china-manufacturing-gauge-shows-slightly-firmer-growth-momentum-5b49c27a</link>
       <description>China’s official factory gauge edged up on stronger production and demand in November, but remained in contraction for an eighth straight month.</description>
       <pubDate>Sun, 30 Nov 2025 05:42:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Will India and China Be Able to Resist U.S. Sanctions on Russian Oil?</title>
-      <link>https://www.wsj.com/world/asia/india-china-trump-russia-sanctions-e4ba5b59</link>
-      <description>New Delhi and Beijing have so far resisted U.S. calls to stop buying Russian crude, but far-reaching sanctions will be hard to ignore.</description>
-      <pubDate>Fri, 24 Oct 2025 03:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
