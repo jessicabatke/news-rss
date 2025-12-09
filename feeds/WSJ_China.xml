@@ -5,6 +5,12 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
+      <title>Trump Says U.S. Will Allow Nvidia H200 Chip Sales to China, Get 25% Cut</title>
+      <link>https://www.wsj.com/tech/nvidia-china-exports-h2000-chips-5943aa48</link>
+      <description>The president’s decision to allow exports of the powerful chip comes after meeting last week with the company’s CEO, Jensen Huang.</description>
+      <pubDate>Tue, 09 Dec 2025 02:35:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Chinese Jets Locked Radar on Japanese Fighters</title>
       <link>https://www.wsj.com/world/china/chinese-jets-locked-radar-on-japanese-fighters-16576128</link>
       <description>Tokyo said the incidents in international waters near Okinawa were dangerous, as diplomatic tensions with Beijing simmer.</description>
@@ -35,12 +41,6 @@
       <pubDate>Sun, 07 Dec 2025 21:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Trump Says U.S. Will Allow Nvidia H200 Chip Sales to China, Get 25% Cut</title>
-      <link>https://www.wsj.com/tech/nvidia-china-exports-h2000-chips-5943aa48</link>
-      <description>The president’s decision to allow exports of the powerful chip comes after meeting last week with the company’s chief executive, Jensen Huang.</description>
-      <pubDate>Mon, 08 Dec 2025 22:22:00 GMT</pubDate>
-    </item>
-    <item>
       <title>China’s Trade Surplus Tops $1 Trillion, Underscoring Its Export Dominance</title>
       <link>https://www.wsj.com/economy/trade/chinas-exports-rebound-in-november-97f24e06</link>
       <description>The historic milestone comes as China adds high-end manufacturing strength to its established dominance in lower-end goods.</description>
@@ -63,6 +63,12 @@
       <link>https://www.wsj.com/world/china/trumps-national-security-strategy-softens-language-on-china-f121ddb3</link>
       <description>The White House document maintains some tough talk on Taiwan but drops references to Beijing as America’s main challenger.</description>
       <pubDate>Sat, 06 Dec 2025 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>China’s Services-Sector Activity Growth Slows</title>
+      <link>https://www.wsj.com/economy/central-banking/chinas-services-sector-activity-growth-slows-09b1f424</link>
+      <description>The RatingDog general services purchasing managers index fell to 52.1, marking the lowest level in five months, according to a statement released Wednesday.</description>
+      <pubDate>Wed, 03 Dec 2025 02:17:00 GMT</pubDate>
     </item>
     <item>
       <title>A Newly Confident China Is Jockeying for More Global Clout as Trump Pulls Back</title>
