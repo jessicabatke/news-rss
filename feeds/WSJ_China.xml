@@ -5,12 +5,6 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
-      <title>China’s Manufacturing Is Booming Despite Trump’s Tariffs</title>
-      <link>https://www.wsj.com/world/china/chinas-manufacturing-is-booming-despite-trumps-tariffs-911fbcbe</link>
-      <description>U.S. pressure has only cemented its rival’s status as the world’s indispensable factory floor, sending its trade surplus above $1 trillion.</description>
-      <pubDate>Tue, 09 Dec 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Nvidia AI Chips to Undergo Unusual U.S. Security Review Before Export to China</title>
       <link>https://www.wsj.com/tech/ai/nvidia-ai-chips-to-undergo-unusual-u-s-security-review-before-export-to-china-5e73cd55</link>
       <description>Shipping chips from Taiwan to the U.S. to China would allow government to get 25% cut of sales.</description>
@@ -33,6 +27,12 @@
       <link>https://www.wsj.com/opinion/donald-trump-national-security-strategy-russia-china-iran-0b811811</link>
       <description>His Administration’s new security document is notably soft on Russia and China.</description>
       <pubDate>Mon, 08 Dec 2025 22:44:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>China’s Manufacturing Is Booming Despite Trump’s Tariffs</title>
+      <link>https://www.wsj.com/world/china/chinas-manufacturing-is-booming-despite-trumps-tariffs-911fbcbe</link>
+      <description>U.S. pressure has only cemented its rival’s status as the world’s indispensable factory floor, sending its trade surplus above $1 trillion.</description>
+      <pubDate>Tue, 09 Dec 2025 04:00:00 GMT</pubDate>
     </item>
     <item>
       <title>China’s Trade Surplus Tops $1 Trillion, Underscoring Its Export Dominance</title>
