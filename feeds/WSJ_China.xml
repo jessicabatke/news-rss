@@ -5,12 +5,6 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
-      <title>China Is Too Big to Rely on Exports for Growth, IMF Chief Warns</title>
-      <link>https://www.wsj.com/world/china/china-is-too-big-to-rely-on-exports-for-growth-imf-chief-warns-c1a8654d</link>
-      <description>On a visit to Beijing, the economist urged the government to get people spending more.</description>
-      <pubDate>Wed, 10 Dec 2025 11:46:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Nvidia AI Chips to Undergo Unusual U.S. Security Review Before Export to China</title>
       <link>https://www.wsj.com/tech/ai/nvidia-ai-chips-to-undergo-unusual-u-s-security-review-before-export-to-china-5e73cd55</link>
       <description>Shipping chips from Taiwan to the U.S. to China would allow government to get 25% cut of sales.</description>
@@ -33,6 +27,12 @@
       <link>https://www.wsj.com/opinion/nvidia-chips-donald-trump-china-xi-jinping-artificial-intelligence-3c55080f</link>
       <description>Why is he giving an adversary access to advanced AI semiconductors—and for what in return?</description>
       <pubDate>Wed, 10 Dec 2025 22:52:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>China Is Too Big to Rely on Exports for Growth, IMF Chief Warns</title>
+      <link>https://www.wsj.com/world/china/china-is-too-big-to-rely-on-exports-for-growth-imf-chief-warns-c1a8654d</link>
+      <description>On a visit to Beijing, the economist urged the government to get people spending more.</description>
+      <pubDate>Wed, 10 Dec 2025 11:46:00 GMT</pubDate>
     </item>
     <item>
       <title>China’s Manufacturing Is Booming Despite Trump’s Tariffs</title>
