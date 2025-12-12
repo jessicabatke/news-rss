@@ -5,6 +5,12 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
+      <title>Tibetan Activists Say China Has Detained Protesters Who Staged Rare Act of Defiance</title>
+      <link>https://www.wsj.com/world/asia/tibetan-activists-say-china-has-detained-protesters-who-staged-rare-act-of-defiance-408e9e8b</link>
+      <description>Chinese authorities arrested dozens of Tibetans who were protesting a mining project, according to Tibetan activists and the government in exile.</description>
+      <pubDate>Fri, 12 Dec 2025 10:30:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Nvidia AI Chips to Undergo Unusual U.S. Security Review Before Export to China</title>
       <link>https://www.wsj.com/tech/ai/nvidia-ai-chips-to-undergo-unusual-u-s-security-review-before-export-to-china-5e73cd55</link>
       <description>Shipping chips from Taiwan to the U.S. to China would allow government to get 25% cut of sales.</description>
@@ -21,6 +27,12 @@
       <link>https://www.wsj.com/world/europe/eu-launches-in-depth-foreign-subsidies-probe-into-chinas-nuctech-d81bc9db</link>
       <description>The bloc said Nuctech might have received grants, preferential tax measures and loans which could have improved its competitive position in Europe.</description>
       <pubDate>Thu, 11 Dec 2025 17:13:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>China to Implement Export Controls on Some Steel Products</title>
+      <link>https://www.wsj.com/economy/trade/china-to-implement-export-controls-on-some-steel-products-560f9927</link>
+      <description>Officials said exporters would need to obtain permission to ship certain steel products starting Jan. 1.</description>
+      <pubDate>Fri, 12 Dec 2025 10:57:00 GMT</pubDate>
     </item>
     <item>
       <title>Mexico Slaps Up to 50% Tariffs on Chinese Goods, Drawing Outcry From Beijing</title>
@@ -45,12 +57,6 @@
       <link>https://www.wsj.com/world/china/china-is-too-big-to-rely-on-exports-for-growth-imf-chief-warns-c1a8654d</link>
       <description>On a visit to Beijing, the economist urged the government to get people spending more.</description>
       <pubDate>Wed, 10 Dec 2025 11:46:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>How Trump’s U-Turn on Nvidia Chips Changes the Game for China’s AI</title>
-      <link>https://www.wsj.com/tech/ai/china-ai-nvidia-trump-chip-export-ban-lift-c3d457c1</link>
-      <description>President Trump’s deal instantly reshaped the U.S.-China technological Cold War. The fear among his critics is he just helped Beijing catch up.</description>
-      <pubDate>Tue, 09 Dec 2025 15:36:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
