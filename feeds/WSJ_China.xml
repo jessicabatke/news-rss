@@ -5,16 +5,16 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
-      <title>Why Germany Wants a Divorce With China</title>
-      <link>https://www.wsj.com/world/europe/why-germany-wants-a-divorce-with-china-0d59fb81</link>
-      <description>For the first time in decades, German businesses and politicians are questioning the unfettered free trade that turned the country into an industrial powerhouse.</description>
-      <pubDate>Mon, 15 Dec 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>China’s Economy Is Deteriorating on Several Fronts</title>
       <link>https://www.wsj.com/world/asia/chinas-economy-is-deteriorating-on-several-fronts-6d0a4a9b</link>
       <description>The broad-based weakening spans consumer spending, investment and real estate.</description>
       <pubDate>Mon, 15 Dec 2025 03:17:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why Germany Wants a Divorce With China</title>
+      <link>https://www.wsj.com/world/europe/why-germany-wants-a-divorce-with-china-0d59fb81</link>
+      <description>For the first time in decades, German businesses and politicians are questioning the unfettered free trade that turned the country into an industrial powerhouse.</description>
+      <pubDate>Mon, 15 Dec 2025 04:00:00 GMT</pubDate>
     </item>
     <item>
       <title>China Vanke Shares Fall After Bondholders Reject Debt Extension Proposal</title>
