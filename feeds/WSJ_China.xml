@@ -5,12 +5,6 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
-      <title>Hong Kong Court Convicts Publisher Jimmy Lai, Whom Trump Has Vowed to Free</title>
-      <link>https://www.wsj.com/world/china/hong-kong-court-convicts-publisher-jimmy-lai-whom-trump-has-vowed-to-free-8795674e</link>
-      <description>The 78-year-old symbol of China’s protest crackdown faces a possible life sentence.</description>
-      <pubDate>Mon, 15 Dec 2025 22:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>China’s Economy Is Deteriorating on Several Fronts</title>
       <link>https://www.wsj.com/world/asia/chinas-economy-is-deteriorating-on-several-fronts-6d0a4a9b</link>
       <description>The broad-based weakening spans consumer spending, investment and real estate.</description>
@@ -23,16 +17,16 @@
       <pubDate>Mon, 15 Dec 2025 21:02:00 GMT</pubDate>
     </item>
     <item>
-      <title>Why Germany Wants a Divorce With China</title>
-      <link>https://www.wsj.com/world/europe/why-germany-wants-a-divorce-with-china-0d59fb81</link>
-      <description>For the first time in decades, German businesses and politicians are questioning the unfettered free trade that turned the country into an industrial powerhouse.</description>
-      <pubDate>Mon, 15 Dec 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>What to Know About the Use of U.S. Surrogacy by China’s Billionaires</title>
       <link>https://www.wsj.com/us-news/what-to-know-surrogacy-china-billionaires-3734339e</link>
       <description>A WSJ investigation shows how Chinese elites are building mega-families by using a largely unregulated American system.</description>
       <pubDate>Tue, 16 Dec 2025 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hong Kong Court Convicts Publisher Jimmy Lai, Whom Trump Has Vowed to Free</title>
+      <link>https://www.wsj.com/world/china/hong-kong-court-convicts-publisher-jimmy-lai-whom-trump-has-vowed-to-free-8795674e</link>
+      <description>The 78-year-old symbol of China’s protest crackdown faces a possible life sentence.</description>
+      <pubDate>Mon, 15 Dec 2025 22:00:00 GMT</pubDate>
     </item>
     <item>
       <title>China Vanke Shares Fall After Bondholders Reject Debt Extension Proposal</title>
@@ -47,10 +41,10 @@
       <pubDate>Fri, 12 Dec 2025 23:41:00 GMT</pubDate>
     </item>
     <item>
-      <title>ICE Holding Chinese Man Who Documented Uyghur Camps</title>
-      <link>https://www.wsj.com/world/china/ice-holding-chinese-man-who-documented-uyghur-camps-a4702045</link>
-      <description>Heng Guan is awaiting an immigration hearing on Monday that could lead to his removal from the U.S. and ultimately land him back in China, according to his lawyer and a New York-based activist group.</description>
-      <pubDate>Fri, 12 Dec 2025 23:22:00 GMT</pubDate>
+      <title>Why Germany Wants a Divorce With China</title>
+      <link>https://www.wsj.com/world/europe/why-germany-wants-a-divorce-with-china-0d59fb81</link>
+      <description>For the first time in decades, German businesses and politicians are questioning the unfettered free trade that turned the country into an industrial powerhouse.</description>
+      <pubDate>Mon, 15 Dec 2025 04:00:00 GMT</pubDate>
     </item>
     <item>
       <title>U.S. Forces Raid Ship, Seize Cargo Headed to Iran From China</title>
