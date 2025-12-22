@@ -5,7 +5,7 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
-      <title>How Beijing Built Arms Industry to Rival the West</title>
+      <title>How Beijing Built an Arms Industry to Rival the West</title>
       <link>https://www.wsj.com/world/china/how-beijing-built-arms-industry-to-rival-the-west-2ef824c7</link>
       <description>China’s ability to churn out advanced armaments is a key element in Xi Jinping’s vision of making his country less reliant on the outside world.</description>
       <pubDate>Mon, 22 Dec 2025 03:00:00 GMT</pubDate>
@@ -21,6 +21,12 @@
       <link>https://www.wsj.com/world/china/u-s-approves-11-billion-in-arms-sales-to-taiwan-angering-beijing-e523a54b</link>
       <description>The packages include Himars truck-based missile launchers, howitzers, missiles and antitank drones.</description>
       <pubDate>Thu, 18 Dec 2025 17:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>China Vanke’s Brewing Crisis Suggests Limited Property Easing to Come</title>
+      <link>https://www.wsj.com/economy/housing/china-vankes-brewing-crisis-suggests-limited-property-easing-to-come-020fd388</link>
+      <description>Many of China’s other large developers have already defaulted, and a Vanke collapse would raise questions about how policymakers plan to address the real-estate slump as it drags on into a sixth year in 2026.</description>
+      <pubDate>Mon, 22 Dec 2025 08:20:00 GMT</pubDate>
     </item>
     <item>
       <title>Trump Tackles Concerns Over Taiwan Strategy With Massive Weapons Deal</title>
@@ -45,12 +51,6 @@
       <link>https://www.wsj.com/world/china/hong-kong-court-convicts-publisher-jimmy-lai-whom-trump-has-vowed-to-free-8795674e</link>
       <description>The 78-year-old symbol of China’s protest crackdown faces a possible life sentence.</description>
       <pubDate>Mon, 15 Dec 2025 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>China Vanke Shares Fall After Bondholders Reject Debt Extension Proposal</title>
-      <link>https://www.wsj.com/business/china-vanke-shares-fall-after-bondholders-reject-debt-extension-proposal-bfab9d91</link>
-      <description>The property developer said it will hold a bondholder meeting on Thursday to discuss next steps.</description>
-      <pubDate>Mon, 15 Dec 2025 05:32:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
