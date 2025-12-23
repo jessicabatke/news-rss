@@ -5,10 +5,10 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
-      <title>How China Built an Arms Industry to Rival the West</title>
-      <link>https://www.wsj.com/world/china/how-beijing-built-arms-industry-to-rival-the-west-2ef824c7</link>
-      <description>Beijing’s ability to churn out advanced armaments is a key element in Xi Jinping’s vision of making his country less reliant on the outside world.</description>
-      <pubDate>Mon, 22 Dec 2025 03:00:00 GMT</pubDate>
+      <title>China’s Sprint for Tech Dominance Can’t Hide an Economy Full of Holes</title>
+      <link>https://www.wsj.com/world/china/china-economy-gap-tech-advance-970296f1</link>
+      <description>A self-sufficiency push has made China a tougher competitor to the U.S., but it comes with enormous waste.</description>
+      <pubDate>Tue, 23 Dec 2025 02:00:00 GMT</pubDate>
     </item>
     <item>
       <title>China to Impose Provisional Anti-Subsidy Duties on EU Dairy Products</title>
@@ -47,6 +47,12 @@
       <pubDate>Mon, 22 Dec 2025 08:20:00 GMT</pubDate>
     </item>
     <item>
+      <title>How China Built an Arms Industry to Rival the West</title>
+      <link>https://www.wsj.com/world/china/how-beijing-built-arms-industry-to-rival-the-west-2ef824c7</link>
+      <description>Beijing’s ability to churn out advanced armaments is a key element in Xi Jinping’s vision of making his country less reliant on the outside world.</description>
+      <pubDate>Mon, 22 Dec 2025 03:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Trump Tackles Concerns Over Taiwan Strategy With Massive Weapons Deal</title>
       <link>https://www.wsj.com/world/china/trump-tackles-concerns-over-taiwan-strategy-with-massive-weapons-deal-211d2528</link>
       <description>The $11.1 billion sale came after a string of episodes that stirred disquiet about the U.S. president’s appetite to face down China.</description>
@@ -57,12 +63,6 @@
       <link>https://www.wsj.com/business/logistics/panama-ports-deal-hits-impasse-as-china-makes-new-demands-for-its-approval-ff741523</link>
       <description>Beijing threatened to block the BlackRock-led deal to buy ports unless state-owned Cosco gets a majority stake.</description>
       <pubDate>Tue, 16 Dec 2025 17:57:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>What to Know About the Use of U.S. Surrogacy by China’s Billionaires</title>
-      <link>https://www.wsj.com/us-news/what-to-know-surrogacy-china-billionaires-3734339e</link>
-      <description>A WSJ investigation shows how Chinese elites are building mega-families by using a largely unregulated American system.</description>
-      <pubDate>Tue, 16 Dec 2025 04:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
