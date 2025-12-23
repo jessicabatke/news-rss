@@ -5,12 +5,6 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
-      <title>China’s Sprint for Tech Dominance Can’t Hide an Economy Full of Holes</title>
-      <link>https://www.wsj.com/world/china/china-economy-gap-tech-advance-970296f1</link>
-      <description>A self-sufficiency push has made China a tougher competitor to the U.S., but it comes with enormous waste.</description>
-      <pubDate>Tue, 23 Dec 2025 02:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>China to Impose Provisional Anti-Subsidy Duties on EU Dairy Products</title>
       <link>https://www.wsj.com/world/china/china-to-impose-provisional-anti-subsidy-duties-on-eu-dairy-products-82c95ab2</link>
       <description>According to a preliminary ruling, most EU companies will face rates below 30%.</description>
@@ -23,16 +17,16 @@
       <pubDate>Sat, 20 Dec 2025 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>U.S. Approves $11 Billion in Arms Sales to Taiwan, Angering Beijing</title>
-      <link>https://www.wsj.com/world/china/u-s-approves-11-billion-in-arms-sales-to-taiwan-angering-beijing-e523a54b</link>
-      <description>The packages include Himars truck-based missile launchers, howitzers, missiles and antitank drones.</description>
-      <pubDate>Thu, 18 Dec 2025 17:05:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Opinion | China Stalks a Hong Kong Dissident Abroad</title>
       <link>https://www.wsj.com/opinion/carmen-lau-china-embassy-london-u-k-hong-kong-c170e10b</link>
       <description>First came a bounty. Next came false sexually explicit letters about the U.K. resident.</description>
       <pubDate>Mon, 22 Dec 2025 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>China’s Sprint for Tech Dominance Can’t Hide an Economy Full of Holes</title>
+      <link>https://www.wsj.com/world/china/china-economy-gap-tech-advance-970296f1</link>
+      <description>A self-sufficiency push has made China a tougher competitor to the U.S., but it comes with enormous waste.</description>
+      <pubDate>Tue, 23 Dec 2025 02:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Jurors Deadlock in Trial of Linda Sun, Accused of Acting as China Agent</title>
@@ -57,12 +51,6 @@
       <link>https://www.wsj.com/world/china/trump-tackles-concerns-over-taiwan-strategy-with-massive-weapons-deal-211d2528</link>
       <description>The $11.1 billion sale came after a string of episodes that stirred disquiet about the U.S. president’s appetite to face down China.</description>
       <pubDate>Fri, 19 Dec 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Panama Ports Deal Hits Impasse as China Makes New Demands for Its Approval</title>
-      <link>https://www.wsj.com/business/logistics/panama-ports-deal-hits-impasse-as-china-makes-new-demands-for-its-approval-ff741523</link>
-      <description>Beijing threatened to block the BlackRock-led deal to buy ports unless state-owned Cosco gets a majority stake.</description>
-      <pubDate>Tue, 16 Dec 2025 17:57:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
