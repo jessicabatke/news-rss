@@ -5,16 +5,22 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
-      <title>China Sanctions Boeing, Other U.S. Companies Over Taiwan Arms Sale</title>
-      <link>https://www.wsj.com/world/china/china-sanctions-boeing-other-u-s-companies-over-taiwan-arms-sale-ef6032a4</link>
-      <description>Beijing responded to the Trump administration’s approval of a large weapons package for Taipei with restrictions on firms and executives.</description>
-      <pubDate>Fri, 26 Dec 2025 11:53:00 GMT</pubDate>
+      <title>A Tiny Pacific Paradise Is Gaming the U.S.-China Rivalry Over Minerals</title>
+      <link>https://www.wsj.com/world/a-tiny-pacific-paradise-is-gaming-the-u-s-china-rivalry-over-minerals-dccf5f1e</link>
+      <description>The Cook Islands—population 15,000—are being courted by the two superpowers as they hunt for more rare earths, and could stand to reap a windfall.</description>
+      <pubDate>Sat, 27 Dec 2025 04:00:00 GMT</pubDate>
     </item>
     <item>
       <title>India Is on a Himalayan Building Spree to Prepare for a Clash With China</title>
       <link>https://www.wsj.com/world/asia/india-is-on-a-himalayan-building-spree-to-prepare-for-a-clash-with-china-c914dcaf</link>
       <description>A deadly standoff jolted India to stitch together a huge network of roads, tunnels and landing strips needed to move soldiers and supplies to the mountainous border region.</description>
       <pubDate>Thu, 25 Dec 2025 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>China Sanctions Boeing, Other U.S. Companies Over Taiwan Arms Sale</title>
+      <link>https://www.wsj.com/world/china/china-sanctions-boeing-other-u-s-companies-over-taiwan-arms-sale-ef6032a4</link>
+      <description>Beijing responded to the Trump administration’s approval of a large weapons package for Taipei with restrictions on firms and executives.</description>
+      <pubDate>Fri, 26 Dec 2025 11:53:00 GMT</pubDate>
     </item>
     <item>
       <title>China Developing Options to Threaten Taiwan With ‘Brute Force,’ Pentagon Says</title>
@@ -41,16 +47,16 @@
       <pubDate>Mon, 22 Dec 2025 22:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>China to Impose Provisional Anti-Subsidy Duties on EU Dairy Products</title>
-      <link>https://www.wsj.com/world/china/china-to-impose-provisional-anti-subsidy-duties-on-eu-dairy-products-82c95ab2</link>
-      <description>According to a preliminary ruling, most EU companies will face rates below 30%.</description>
-      <pubDate>Mon, 22 Dec 2025 12:46:00 GMT</pubDate>
-    </item>
-    <item>
       <title>How China Built an Arms Industry to Rival the West</title>
       <link>https://www.wsj.com/world/china/how-beijing-built-arms-industry-to-rival-the-west-2ef824c7</link>
       <description>Beijing’s ability to churn out advanced armaments is a key element in Xi Jinping’s vision of making his country less reliant on the outside world.</description>
       <pubDate>Mon, 22 Dec 2025 03:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>India Is on a Himalayan Building Spree to Prepare for a Clash With China</title>
+      <link>https://www.wsj.com/world/asia/india-is-on-a-himalayan-building-spree-to-prepare-for-a-clash-with-china-c914dcaf</link>
+      <description>A deadly standoff jolted India to stitch together a huge network of roads, tunnels and landing strips needed to move soldiers and supplies to the mountainous border region.</description>
+      <pubDate>Thu, 25 Dec 2025 04:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
