@@ -5,12 +5,6 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
-      <title>China’s Push to Master the Arctic Opens an Alarming Shortcut to U.S.</title>
-      <link>https://www.wsj.com/world/china-arctic-military-submarines-b4e988b9</link>
-      <description>National-security officials say Chinese submarines and icebreakers pose a new military threat from the High North.</description>
-      <pubDate>Tue, 30 Dec 2025 02:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>See How a Chinese Attack on Taiwan Would Be Japan’s Problem</title>
       <link>https://www.wsj.com/world/asia/china-taiwan-attack-japan-maps-2608bdbf</link>
       <description>In a conflict, Taipei’s fate would become quickly intertwined with the U.S.-Japan security alliance.</description>
@@ -45,6 +39,12 @@
       <link>https://www.wsj.com/world/asia/india-is-on-a-himalayan-building-spree-to-prepare-for-a-clash-with-china-c914dcaf</link>
       <description>A deadly standoff jolted India to stitch together a huge network of roads, tunnels and landing strips needed to move soldiers and supplies to the mountainous border region.</description>
       <pubDate>Thu, 25 Dec 2025 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>China’s Push to Master the Arctic Opens an Alarming Shortcut to U.S.</title>
+      <link>https://www.wsj.com/world/china-arctic-military-submarines-b4e988b9</link>
+      <description>National-security officials say Chinese submarines and icebreakers pose a new military threat from the High North.</description>
+      <pubDate>Tue, 30 Dec 2025 02:00:00 GMT</pubDate>
     </item>
     <item>
       <title>A Tiny Pacific Paradise Is Gaming the U.S.-China Rivalry Over Minerals</title>
