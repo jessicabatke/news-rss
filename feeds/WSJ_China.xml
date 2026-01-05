@@ -5,12 +5,6 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
-      <title>Five Takeaways From China’s Military Drills Around Taiwan</title>
-      <link>https://www.wsj.com/world/asia/five-takeaways-from-chinas-military-drills-around-taiwan-47c64aee</link>
-      <description>Beijing encircled the island this week and warned outsiders to stay away.</description>
-      <pubDate>Wed, 31 Dec 2025 10:53:00 GMT</pubDate>
-    </item>
-    <item>
       <title>China Signals It Won’t Give an Inch to the U.S. in Latin America</title>
       <link>https://www.wsj.com/world/americas/china-signals-it-wont-give-an-inch-to-the-u-s-in-latin-america-ba03bd24</link>
       <description>Beijing is doubling down on its expansion just as President Trump tries to claim the Western Hemisphere as an exclusive sphere of influence for the U.S.</description>
@@ -21,6 +15,12 @@
       <link>https://www.wsj.com/world/china/xi-says-china-hit-2025-growth-target-despite-economic-headwinds-dcedc9c8</link>
       <description>The leader’s New Year speech is an opportunity to communicate directly with the Chinese people and provided an insight into his priorities.</description>
       <pubDate>Wed, 31 Dec 2025 16:07:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Five Takeaways From China’s Military Drills Around Taiwan</title>
+      <link>https://www.wsj.com/world/asia/five-takeaways-from-chinas-military-drills-around-taiwan-47c64aee</link>
+      <description>Beijing encircled the island this week and warned outsiders to stay away.</description>
+      <pubDate>Wed, 31 Dec 2025 10:53:00 GMT</pubDate>
     </item>
     <item>
       <title>China’s Factory Activity Gauges Signal Return to Growth</title>
