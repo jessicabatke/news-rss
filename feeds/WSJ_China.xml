@@ -5,12 +5,6 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
-      <title>Maduro’s Capture Threatens China’s Ambitions in Latin America</title>
-      <link>https://www.wsj.com/world/china/maduros-capture-threatens-chinas-ambitions-in-latin-america-09ada754</link>
-      <description>Beijing has steadily built relationships over the past two decades in Washington’s backyard.</description>
-      <pubDate>Mon, 05 Jan 2026 17:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Why China Stopped Publicly Urging for North Korean Denuclearization</title>
       <link>https://www.wsj.com/world/asia/why-china-stopped-publicly-urging-for-north-korean-denuclearization-8872b47a</link>
       <description>Beijing has fewer reasons to alienate Pyongyang, turning down chances to openly back disarmament such as at a state visit by South Korea’s president.</description>
@@ -21,6 +15,12 @@
       <link>https://www.wsj.com/opinion/international-law-venezuela-nicolas-maduro-united-nations-china-russia-c68f4427</link>
       <description>Rogue regimes now use it as a shield to protect their own lawbreaking.</description>
       <pubDate>Mon, 05 Jan 2026 22:22:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Maduro’s Capture Threatens China’s Ambitions in Latin America</title>
+      <link>https://www.wsj.com/world/china/maduros-capture-threatens-chinas-ambitions-in-latin-america-09ada754</link>
+      <description>Beijing has steadily built relationships over the past two decades in Washington’s backyard.</description>
+      <pubDate>Mon, 05 Jan 2026 17:00:00 GMT</pubDate>
     </item>
     <item>
       <title>China Signals It Won’t Give an Inch to the U.S. in Latin America</title>
