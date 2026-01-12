@@ -5,12 +5,6 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
-      <title>South Africa Risks Angering Trump by Hosting Navies of Iran, Russia, China</title>
-      <link>https://www.wsj.com/world/africa/south-africa-risks-angering-trump-by-hosting-navies-of-iran-russia-china-f55067a4</link>
-      <description>The military exercises come at a time of already strained relations with the U.S.</description>
-      <pubDate>Sun, 11 Jan 2026 16:28:00 GMT</pubDate>
-    </item>
-    <item>
       <title>China Deprives Japan of Rare-Earths Supply, Escalating Dispute</title>
       <link>https://www.wsj.com/world/asia/china-deprives-japan-of-rare-earths-supply-escalating-dispute-41e7750c</link>
       <description>Beijing is punishing Tokyo for Prime Minister Sanae Takaichi’s remarks on Taiwan, again wielding critical minerals as an economic weapon.</description>
@@ -21,6 +15,12 @@
       <link>https://www.wsj.com/world/china/china-detains-church-leaders-as-crackdown-on-religion-intensifies-98f40ce2</link>
       <description>Authorities have taken away at least four members of a high-profile “house church” in Sichuan province as a campaign to root out religious organizations beyond the state’s control intensifies.</description>
       <pubDate>Thu, 08 Jan 2026 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Canada Anticipates Progress in China Talks to Resolve Trade Row</title>
+      <link>https://www.wsj.com/world/china/canada-anticipates-progress-in-china-talks-to-resolve-trade-row-56d89a70</link>
+      <description>Canada anticipates progress with China on resolving trade irritants regarding canola and electric vehicles during Prime Minister Mark Carney visit’s to Beijing this week, officials said.</description>
+      <pubDate>Mon, 12 Jan 2026 19:59:00 GMT</pubDate>
     </item>
     <item>
       <title>China Warns AI Startups Seeking to Emulate Meta Deal: Not So Fast</title>
@@ -51,6 +51,12 @@
       <link>https://www.wsj.com/world/china/maduros-capture-threatens-chinas-ambitions-in-latin-america-09ada754</link>
       <description>Beijing has steadily built relationships over the past two decades in Washington’s backyard.</description>
       <pubDate>Mon, 05 Jan 2026 17:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>South Africa Risks Angering Trump by Hosting Navies of Iran, Russia, China</title>
+      <link>https://www.wsj.com/world/africa/south-africa-risks-angering-trump-by-hosting-navies-of-iran-russia-china-f55067a4</link>
+      <description>The military exercises come at a time of already strained relations with the U.S.</description>
+      <pubDate>Sun, 11 Jan 2026 16:28:00 GMT</pubDate>
     </item>
     <item>
       <title>India Is on a Himalayan Building Spree to Prepare for a Clash With China</title>
