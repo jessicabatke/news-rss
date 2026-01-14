@@ -5,12 +5,6 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
-      <title>U.S. Blows Up China’s Latin America Ambitions With Maduro Ouster</title>
-      <link>https://www.wsj.com/world/americas/china-trump-venezuela-maduro-75e95551</link>
-      <description>Beijing is recalculating its policy of making inroads in Washington’s backyard after its top ally there was deposed.</description>
-      <pubDate>Wed, 14 Jan 2026 02:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>An Isolated Iran Finds China’s Friendship Has Limits</title>
       <link>https://www.wsj.com/world/an-isolated-iran-finds-chinas-friendship-has-limits-be947372</link>
       <description>Beijing denounced Trump’s 25% tariff on countries that do business with Tehran, but seems reluctant to offer more support.</description>
@@ -27,6 +21,12 @@
       <link>https://www.wsj.com/world/asia/the-u-s-s-two-foremost-asian-allies-are-on-good-termsan-irritant-for-china-71c7854e</link>
       <description>South Korean President Lee Jae Myung and Japanese Prime Minister Sanae Takaichi displayed unity in a high-profile summit.</description>
       <pubDate>Wed, 14 Jan 2026 00:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>U.S. Blows Up China’s Latin America Ambitions With Maduro Ouster</title>
+      <link>https://www.wsj.com/world/americas/china-trump-venezuela-maduro-75e95551</link>
+      <description>Beijing is recalculating its policy of making inroads in Washington’s backyard after its top ally there was deposed.</description>
+      <pubDate>Wed, 14 Jan 2026 02:00:00 GMT</pubDate>
     </item>
     <item>
       <title>The Battle Over Who Runs the Panama Canal Ports Is About to Be Decided</title>
