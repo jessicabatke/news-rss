@@ -5,6 +5,12 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
+      <title>China’s Population Falls for Fourth Straight Year</title>
+      <link>https://www.wsj.com/world/china/chinas-population-falls-for-fourth-straight-year-409986bd</link>
+      <description>The number of births fell to the lowest level since records began in 1949.</description>
+      <pubDate>Mon, 19 Jan 2026 07:31:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Chinese AI Developers Say They Can’t Beat America Without Better Chips</title>
       <link>https://www.wsj.com/tech/ai/china-ai-race-us-chips-9e74b957</link>
       <description>Companies in China are jostling for access to Nvidia’s latest Rubin lineup while better-funded U.S. competitors are first in line.</description>
