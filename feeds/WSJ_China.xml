@@ -5,12 +5,6 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
-      <title>China’s Birthrate Sinks to Record Low</title>
-      <link>https://www.wsj.com/world/china/chinas-population-falls-for-fourth-straight-year-409986bd</link>
-      <description>The number of births fell to the lowest level in decades, while the country’s population shrank for a fourth consecutive year.</description>
-      <pubDate>Mon, 19 Jan 2026 07:31:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Chinese AI Developers Say They Can’t Beat America Without Better Chips</title>
       <link>https://www.wsj.com/tech/ai/china-ai-race-us-chips-9e74b957</link>
       <description>Companies in China are jostling for access to Nvidia’s latest Rubin lineup while better-funded U.S. competitors are first in line.</description>
@@ -47,6 +41,12 @@
       <pubDate>Mon, 19 Jan 2026 09:45:00 GMT</pubDate>
     </item>
     <item>
+      <title>China’s Birthrate Sinks to Record Low</title>
+      <link>https://www.wsj.com/world/china/chinas-population-falls-for-fourth-straight-year-409986bd</link>
+      <description>The number of births fell to the lowest level in decades, while the country’s population shrank for a fourth consecutive year.</description>
+      <pubDate>Mon, 19 Jan 2026 07:31:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Fed Turmoil Is Threatening Dollar Supremacy Just as China Pushes the Yuan</title>
       <link>https://www.wsj.com/finance/currencies/fed-turmoil-is-threatening-dollar-supremacy-just-as-china-pushes-the-yuan-3ebb781d</link>
       <description>Economists see a politicized central bank damaging investor confidence in the U.S. system while Beijing advances in globalizing its currency.</description>
@@ -63,12 +63,6 @@
       <link>https://www.wsj.com/world/china/canadian-leader-spurned-by-trump-finds-a-warm-embrace-in-china-a44ea147</link>
       <description>Beijing is hosting Mark Carney as it works to sustain its exports and woo U.S. allies frustrated with American protectionism.</description>
       <pubDate>Fri, 16 Jan 2026 07:27:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>China’s Propaganda Playbook for Targeting Rivals</title>
-      <link>https://www.wsj.com/world/china/china-japan-taiwan-strategy-tactics-ab881734</link>
-      <description>China’s state propaganda machine has a toolbox for undermining leaders that includes fake opinion polls, “lawfare” and general character assassination.</description>
-      <pubDate>Thu, 15 Jan 2026 04:00:00 GMT</pubDate>
     </item>
     <item>
       <title>South Africa Risks Angering Trump by Hosting Navies of Iran, Russia, China</title>
