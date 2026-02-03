@@ -5,12 +5,6 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
-      <title>China Agrees to Lower Tariffs by Half on U.K. Whisky</title>
-      <link>https://www.wsj.com/economy/trade/china-agrees-to-lower-tariffs-by-half-on-u-k-whisky-9a68469d</link>
-      <description>The U.K. government said it expects whisky exports to China to be worth roughly $345.2 million to the economy over the next five years as tariffs are lowered to 5% from 10%.</description>
-      <pubDate>Thu, 29 Jan 2026 20:39:00 GMT</pubDate>
-    </item>
-    <item>
       <title>China Imports to Help Lower U.K. Inflation to Target, BOE’s Taylor Says</title>
       <link>https://www.wsj.com/articles/china-imports-to-help-lower-u-k-inflation-to-target-boes-taylor-says-7c8efbb9</link>
       <description>The annual rate of inflation is likely to fall to the Bank of England’s 2% target by the middle of this year, aided by cheap imports from China, the rate-setter said.</description>
@@ -27,6 +21,12 @@
       <link>https://www.wsj.com/opinion/china-loses-a-foothold-in-panama-381af4fd</link>
       <description>A court ruling should put to rest Trump’s claim that China is running the canal.</description>
       <pubDate>Sun, 01 Feb 2026 20:44:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>EU Launches Foreign Subsidies Probe Into China’s Goldwind</title>
+      <link>https://www.wsj.com/world/europe/eu-launches-foreign-subsidies-probe-into-chinas-goldwind-49143d71</link>
+      <description>The Commission said it was investigating whether the wind-turbine company received foreign backing that would give it an unfair advantage in the EU.</description>
+      <pubDate>Tue, 03 Feb 2026 12:27:00 GMT</pubDate>
     </item>
     <item>
       <title>China Manufacturing Gauge Shows Pickup in Activity</title>
@@ -53,10 +53,10 @@
       <pubDate>Sat, 31 Jan 2026 02:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>U.K.’s Starmer Joins Ranks of U.S. Allies Testing China’s Embrace</title>
-      <link>https://www.wsj.com/world/china/u-k-s-starmer-joins-ranks-of-u-s-allies-testing-chinas-embrace-f266150c</link>
-      <description>In a visit to Beijing, the British leader is seeking to rekindle ties with Xi Jinping, with a business delegation in tow.</description>
-      <pubDate>Thu, 29 Jan 2026 12:22:00 GMT</pubDate>
+      <title>China Agrees to Lower Tariffs by Half on U.K. Whisky</title>
+      <link>https://www.wsj.com/economy/trade/china-agrees-to-lower-tariffs-by-half-on-u-k-whisky-9a68469d</link>
+      <description>The U.K. government said it expects whisky exports to China to be worth roughly $345.2 million to the economy over the next five years as tariffs are lowered to 5% from 10%.</description>
+      <pubDate>Thu, 29 Jan 2026 20:39:00 GMT</pubDate>
     </item>
     <item>
       <title>South Africa Risks Angering Trump by Hosting Navies of Iran, Russia, China</title>
