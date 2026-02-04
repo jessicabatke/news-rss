@@ -5,6 +5,12 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
+      <title>President Trump and China’s Xi Jinping Speak by Phone</title>
+      <link>https://www.wsj.com/world/china/president-trump-and-chinas-xi-jinping-speak-by-phone-339e7ca1</link>
+      <description>The two leaders are expected to meet in Beijing in April.</description>
+      <pubDate>Wed, 04 Feb 2026 14:31:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Opinion | Crony Socialism and Rare Earths</title>
       <link>https://www.wsj.com/opinion/usa-rare-earth-commerce-department-trump-administration-china-cd010507</link>
       <description>Government stakes in companies is the wrong way to beat China.</description>
@@ -45,12 +51,6 @@
       <link>https://www.wsj.com/world/asia/india-is-on-a-himalayan-building-spree-to-prepare-for-a-clash-with-china-c914dcaf</link>
       <description>A deadly standoff jolted India to stitch together a huge network of roads, tunnels and landing strips needed to move soldiers and supplies to the mountainous border region.</description>
       <pubDate>Thu, 25 Dec 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>China’s Manufacturing PMI Contracts in January</title>
-      <link>https://www.wsj.com/world/china/chinas-pmi-falls-in-january-5d41194b</link>
-      <description>China’s official gauges of factory, services and construction activity unexpectedly slipped into contraction at the start of 2026, signaling a cooling in economic growth.</description>
-      <pubDate>Sat, 31 Jan 2026 02:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
