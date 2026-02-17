@@ -5,6 +5,6 @@
   "FA_China": "https://news.google.com/rss/search?q=site:foreignaffairs.com+china",
   "Guardian_China": "https://news.google.com/rss/search?q=site:theguardian.com+china",
   "CNN_China": "https://news.google.com/rss/search?q=site:cnn.com+china",
-  "Reuters": "https://news.google.com/rss/search?q=site:reuters.com+china&hl=en-US&gl=US&ceid=US:en"
-  
+  "Reuters": "https://news.google.com/rss/search?q=site:reuters.com+china&hl=en-US&gl=US&ceid=US:en",
+  "CMP": "https://news.google.com/rss/search?q=site:chinamediaproject.org&hl=en-US&gl=US&ceid=US:en"
 }
