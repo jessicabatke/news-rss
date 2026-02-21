@@ -5,12 +5,6 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
-      <title>U.S. Builds Tech Bloc to Counter China, Adds India as Newest Member</title>
-      <link>https://www.wsj.com/world/india/u-s-builds-tech-bloc-to-counter-china-adds-india-as-newest-member-44afdc60</link>
-      <description>With Pax Silica,  the Trump administration is retreating from an adversarial stance it took toward allies and friends last year.</description>
-      <pubDate>Fri, 20 Feb 2026 14:19:00 GMT</pubDate>
-    </item>
-    <item>
       <title>China Should Shift Economic Gears to Consumption-Led Growth, IMF Says</title>
       <link>https://www.wsj.com/economy/china-should-shift-economic-gears-to-consumption-led-growth-imf-says-64fcd055</link>
       <description>The world’s second-largest economy is built on a growth model that faces increasing challenges, top IMF officials said in a statement.</description>
@@ -51,6 +45,12 @@
       <link>https://www.wsj.com/world/the-u-s-navys-new-insurance-policy-for-war-with-china-is-an-australian-base-764af616</link>
       <description>The Pentagon plans to deploy submarines to an expanding facility in allies’ strategy to deter Beijing.</description>
       <pubDate>Sun, 08 Feb 2026 03:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>U.S. Builds Tech Bloc to Counter China, Adds India as Newest Member</title>
+      <link>https://www.wsj.com/world/india/u-s-builds-tech-bloc-to-counter-china-adds-india-as-newest-member-44afdc60</link>
+      <description>With Pax Silica,  the Trump administration is retreating from an adversarial stance it took toward allies and friends last year.</description>
+      <pubDate>Fri, 20 Feb 2026 14:19:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
