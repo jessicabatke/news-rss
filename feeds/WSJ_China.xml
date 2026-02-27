@@ -5,16 +5,22 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
+      <title>Opinion | China Wins the Pentagon-Anthropic Brawl</title>
+      <link>https://www.wsj.com/opinion/anthropic-donald-trump-pentagon-ai-china-u-s-military-467dd6de</link>
+      <description>Trump goes nuclear on the AI firm, in a needless display of brute government punishment.</description>
+      <pubDate>Fri, 27 Feb 2026 22:42:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Opinion | Hong Kong’s Global Censorship Play</title>
+      <link>https://www.wsj.com/opinion/anna-kwok-hong-kong-national-security-law-china-f3bde4b0</link>
+      <description>A court imposes an eight-month sentence on a dissident’s father.</description>
+      <pubDate>Fri, 27 Feb 2026 22:36:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Opinion | Who’s on First at Diego Garcia?</title>
       <link>https://www.wsj.com/opinion/diego-garcia-mauritius-u-k-donald-trump-china-keir-starmer-7109743e</link>
       <description>Trump is right to object to a bad British deal to give away the important Indian Ocean military base.</description>
       <pubDate>Thu, 26 Feb 2026 22:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Opinion | India’s Military Makes Strides but Lags Behind China</title>
-      <link>https://www.wsj.com/opinion/indias-military-makes-strides-but-lags-behind-china-8511d226</link>
-      <description>Beijing’s air force enjoys a 3-to-1 advantage over New Delhi’s in fighters and bombers.</description>
-      <pubDate>Wed, 25 Feb 2026 22:42:00 GMT</pubDate>
     </item>
     <item>
       <title>Germany Shows How Difficult It Is to Rewire Relations With China</title>
