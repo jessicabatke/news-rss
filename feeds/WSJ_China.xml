@@ -5,12 +5,6 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
-      <title>South Korea’s Exports Grew 29% Year-on-Year in February</title>
-      <link>https://www.wsj.com/world/china/south-koreas-exports-grew-29-year-on-year-in-february-a1114f6e</link>
-      <description />
-      <pubDate>Sun, 01 Mar 2026 00:31:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Opinion | China Wins the Pentagon-Anthropic Brawl</title>
       <link>https://www.wsj.com/opinion/anthropic-donald-trump-pentagon-ai-china-u-s-military-467dd6de</link>
       <description>Trump goes nuclear on the AI firm, in a needless display of brute government punishment.</description>
@@ -29,6 +23,12 @@
       <pubDate>Thu, 26 Feb 2026 22:50:00 GMT</pubDate>
     </item>
     <item>
+      <title>South Korea’s Exports Grew 29% Year-on-Year in February</title>
+      <link>https://www.wsj.com/world/china/south-koreas-exports-grew-29-year-on-year-in-february-a1114f6e</link>
+      <description />
+      <pubDate>Sun, 01 Mar 2026 00:31:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Germany Shows How Difficult It Is to Rewire Relations With China</title>
       <link>https://www.wsj.com/world/germany-shows-how-difficult-it-is-to-rewire-relations-with-china-ae46ab0b</link>
       <description>The German chancellor is trying to set a new tone with Beijing to parry pressure from the U.S. But years of deep economic ties make that difficult.</description>
@@ -45,12 +45,6 @@
       <link>https://www.wsj.com/world/china/xi-purge-general-big-brother-4fc7a13d</link>
       <description>The Beijing leader consolidated one-man rule last month in rapid-fire actions against the military’s senior commanders.</description>
       <pubDate>Fri, 20 Feb 2026 02:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>U.S. Arms Sale to Taiwan in Limbo Amid Pressure Campaign From China</title>
-      <link>https://www.wsj.com/world/china/u-s-arms-sale-to-taiwan-in-limbo-amid-pressure-campaign-from-china-d228f912</link>
-      <description>The development follows pressure from Chinese leader Xi Jinping and concerns that the sale would derail President Trump’s coming visit to Beijing.</description>
-      <pubDate>Wed, 18 Feb 2026 16:38:00 GMT</pubDate>
     </item>
     <item>
       <title>The U.S. Navy’s New Insurance Policy for War With China Is an Australian Base</title>
