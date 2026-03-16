@@ -5,16 +5,16 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
-      <title>China’s Economy Off to Steady Start in 2026 Amid Lowered Expectations</title>
-      <link>https://www.wsj.com/world/china/chinas-economy-off-to-steady-start-in-2026-amid-lowered-expectations-d3640b4e</link>
-      <description>A better-than-expected performance in the first two months of the year opens space for Beijing to pursue its goal of shifting toward consumption-led growth.</description>
-      <pubDate>Mon, 16 Mar 2026 02:55:00 GMT</pubDate>
-    </item>
-    <item>
       <title>China Resumes Military Flights Around Taiwan After Sudden 10-Day Hiatus</title>
       <link>https://www.wsj.com/world/china/china-resumes-military-flights-around-taiwan-after-sudden-10-day-hiatus-979afa84</link>
       <description>Beijing hasn’t explained why it abruptly stopped what had become a routine practice, nor its resumption.</description>
       <pubDate>Sun, 15 Mar 2026 05:40:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>China’s Economy Off to Steady Start in 2026 Amid Lowered Expectations</title>
+      <link>https://www.wsj.com/world/china/chinas-economy-off-to-steady-start-in-2026-amid-lowered-expectations-d3640b4e</link>
+      <description>A better-than-expected performance in the first two months of the year opens space for Beijing to pursue its goal of shifting toward consumption-led growth.</description>
+      <pubDate>Mon, 16 Mar 2026 02:55:00 GMT</pubDate>
     </item>
     <item>
       <title>Xi Enforces His Demand for Ethnic Unity Across China</title>
@@ -33,12 +33,6 @@
       <link>https://www.wsj.com/business/autos/chinas-auto-sales-drop-as-demand-cools-48ef5b99</link>
       <description>Subdued sales activity was weighed by a nine-day Lunar New Year holiday and cooling consumer demand.</description>
       <pubDate>Thu, 12 Mar 2026 09:08:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>China Has Spent Years Preparing for the Iran Oil Crisis</title>
-      <link>https://www.wsj.com/world/china-has-spent-years-preparing-for-the-iran-oil-crisis-b0ff5577</link>
-      <description>Massive oil stockpiles and a shift to electric vehicles are helping to insulate the Chinese economy from supply disruptions in the Middle East.</description>
-      <pubDate>Tue, 10 Mar 2026 13:00:00 GMT</pubDate>
     </item>
     <item>
       <title>The U.S. Navy’s New Insurance Policy for War With China Is an Australian Base</title>
