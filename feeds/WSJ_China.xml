@@ -5,12 +5,6 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
-      <title>China Isn’t Rushing Taiwan—It’s Squeezing It Slowly</title>
-      <link>https://www.wsj.com/world/china/china-isnt-rushing-taiwanits-squeezing-it-slowly-58bc99df</link>
-      <description>Plus, without mechanisms to make any war catastrophic for Beijing, one expert warns, failure to deter it in the Taiwan Strait could plunge the world into chaos.</description>
-      <pubDate>Tue, 24 Mar 2026 10:55:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Xi Jinping’s Morality Crackdown Has a New Victim: The Global Wine Trade</title>
       <link>https://www.wsj.com/world/china/xi-jinpings-morality-crackdown-has-a-new-victim-the-global-wine-trade-f030b778</link>
       <description>Reduced demand from China is forcing vineyard owners from Bordeaux to Australia to rip up vines and leave grapes to rot in the fields.</description>
@@ -21,6 +15,12 @@
       <link>https://www.wsj.com/tech/super-micro-computer-employees-arrested-for-alleged-sales-to-china-45a2bd73</link>
       <description>Super Micro co-founder exits after he and two others are accused of diverting U.S.-assembled servers to China, violating export control laws.</description>
       <pubDate>Fri, 20 Mar 2026 21:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>China Isn’t Rushing Taiwan—It’s Squeezing It Slowly</title>
+      <link>https://www.wsj.com/world/china/china-isnt-rushing-taiwanits-squeezing-it-slowly-58bc99df</link>
+      <description>Plus, without mechanisms to make any war catastrophic for Beijing, one expert warns, failure to deter it in the Taiwan Strait could plunge the world into chaos.</description>
+      <pubDate>Tue, 24 Mar 2026 10:55:00 GMT</pubDate>
     </item>
     <item>
       <title>The Silicon Valley Salesman Accused of Helping China Get Nvidia’s Top Chips</title>
@@ -45,12 +45,6 @@
       <link>https://www.wsj.com/world/asia/taiwans-all-hands-on-deck-plan-to-fend-off-china-5a4b319d</link>
       <description>A growing cohort of self-defense zealots is embracing a mission to get the island ready for an attack.</description>
       <pubDate>Thu, 19 Mar 2026 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>China Isn’t Planning to Invade Taiwan in 2027, U.S. Concludes</title>
-      <link>https://www.wsj.com/world/china/china-isnt-planning-to-invade-taiwan-in-2027-u-s-concludes-1fbedcbd</link>
-      <description>Beijing would prefer to take control of the self-ruled island without resorting to force, according to the U.S. intelligence community.</description>
-      <pubDate>Thu, 19 Mar 2026 12:06:00 GMT</pubDate>
     </item>
     <item>
       <title>The U.S. Navy’s New Insurance Policy for War With China Is an Australian Base</title>
