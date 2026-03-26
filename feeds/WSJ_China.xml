@@ -5,12 +5,6 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
-      <title>Trump’s Ambivalence on Taiwan Opens a Historic Opportunity for China</title>
-      <link>https://www.wsj.com/world/china/trump-taiwan-china-opportunity-e56d8ac8</link>
-      <description>Deterring an attack on the island has been a bedrock American policy for 75 years. Xi Jinping sees a chance to change that.</description>
-      <pubDate>Thu, 26 Mar 2026 01:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Xi Jinping’s Morality Crackdown Has a New Victim: The Global Wine Trade</title>
       <link>https://www.wsj.com/world/china/xi-jinpings-morality-crackdown-has-a-new-victim-the-global-wine-trade-f030b778</link>
       <description>Reduced demand from China is forcing vineyard owners from Bordeaux to Australia to rip up vines and leave grapes to rot in the fields.</description>
@@ -21,6 +15,12 @@
       <link>https://www.wsj.com/tech/super-micro-computer-employees-arrested-for-alleged-sales-to-china-45a2bd73</link>
       <description>Super Micro co-founder exits after he and two others are accused of diverting U.S.-assembled servers to China, violating export control laws.</description>
       <pubDate>Fri, 20 Mar 2026 21:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trump’s Ambivalence on Taiwan Opens a Historic Opportunity for China</title>
+      <link>https://www.wsj.com/world/china/trump-taiwan-china-opportunity-e56d8ac8</link>
+      <description>Deterring an attack on the island has been a bedrock American policy for 75 years. Xi Jinping sees a chance to change that.</description>
+      <pubDate>Thu, 26 Mar 2026 01:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Leaders of AI Firm Bought by Meta Are Restricted From Leaving China</title>
@@ -39,12 +39,6 @@
       <link>https://www.wsj.com/tech/the-silicon-valley-salesman-accused-of-helping-china-get-nvidias-top-chips-f1ecb1c2</link>
       <description>A recently unsealed indictment naming Wally Liaw, co-founder of Super Micro Computer, puts the company at the center of the U.S.-China tech war.</description>
       <pubDate>Sat, 21 Mar 2026 17:18:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>China Targets Lawyers Defending Jailed Christian Leaders</title>
-      <link>https://www.wsj.com/world/china/china-targets-lawyers-defending-jailed-christian-leaders-6d0d72c8</link>
-      <description>The arrest of pastor Ezra Jin has drawn criticism from Secretary of State Marco Rubio and members of Congress.</description>
-      <pubDate>Fri, 20 Mar 2026 08:53:00 GMT</pubDate>
     </item>
     <item>
       <title>As China Encroaches, Even New Zealand Is Getting Serious About Its Military</title>
