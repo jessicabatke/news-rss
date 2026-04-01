@@ -5,12 +5,6 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
-      <title>U.S. Court Ruling Keeps Mao Documents Out of China</title>
-      <link>https://www.wsj.com/world/china/u-s-court-ruling-keeps-mao-documents-out-of-china-b1036dfc</link>
-      <description>The diaries of an aide to former Chinese leader Mao Zedong can remain at Stanford University, a federal judge ruled.</description>
-      <pubDate>Wed, 01 Apr 2026 01:32:00 GMT</pubDate>
-    </item>
-    <item>
       <title>The U.S. and China Are in a Strategic Stalemate. What Comes Next.</title>
       <link>https://www.wsj.com/world/china/the-u-s-and-china-are-in-a-strategic-stalemate-what-comes-next-a6d68978</link>
       <description>Plus, why the ‘frown curve’ explains the modern Chinese market.</description>
@@ -41,6 +35,12 @@
       <pubDate>Wed, 01 Apr 2026 03:11:00 GMT</pubDate>
     </item>
     <item>
+      <title>U.S. Court Ruling Keeps Mao Documents Out of China</title>
+      <link>https://www.wsj.com/world/china/u-s-court-ruling-keeps-mao-documents-out-of-china-b1036dfc</link>
+      <description>The diaries of an aide to former Chinese leader Mao Zedong can remain at Stanford University, a federal judge ruled.</description>
+      <pubDate>Wed, 01 Apr 2026 01:32:00 GMT</pubDate>
+    </item>
+    <item>
       <title>China PMIs Signal Resilience as Mideast War Raises Uncertainty</title>
       <link>https://www.wsj.com/economy/china-pmis-signal-resilience-as-mideast-war-raises-uncertainty-baed7fce</link>
       <description>A gauge of activity in China’s sprawling manufacturing sector returned to expansion in March.</description>
@@ -51,12 +51,6 @@
       <link>https://www.wsj.com/economy/trade/china-initiates-probes-into-u-s-trade-practices-f02a8951</link>
       <description>The Chinese probes mirror new investigations by the U.S. that could raise tariffs on Chinese goods.</description>
       <pubDate>Fri, 27 Mar 2026 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trump’s Ambivalence on Taiwan Opens a Historic Opportunity for China</title>
-      <link>https://www.wsj.com/world/china/trump-taiwan-china-opportunity-e56d8ac8</link>
-      <description>Deterring an attack on the island has been a bedrock American policy for 75 years. Xi Jinping sees a chance to change that.</description>
-      <pubDate>Thu, 26 Mar 2026 01:00:00 GMT</pubDate>
     </item>
     <item>
       <title>As China Encroaches, Even New Zealand Is Getting Serious About Its Military</title>
