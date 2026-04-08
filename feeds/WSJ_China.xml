@@ -5,12 +5,6 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
-      <title>How China Helped Iran Cushion the Blow of Sanctions and Fund Its War Machine</title>
-      <link>https://www.wsj.com/world/middle-east/how-china-helped-iran-cushion-the-blow-of-sanctions-and-fund-its-war-machine-6fa2847d</link>
-      <description>Over the past half decade, China has provided Iran with a financial lifeline by buying most of its oil.</description>
-      <pubDate>Tue, 07 Apr 2026 03:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>China Creates New Aviation Mystery With Offshore Warning Zones</title>
       <link>https://www.wsj.com/world/china/china-creates-new-aviation-mystery-with-offshore-warning-zones-128b1ce5</link>
       <description>Beijing has reserved swaths of airspace for 40 days, suggesting possible military activity ahead.</description>
@@ -57,6 +51,12 @@
       <link>https://www.wsj.com/world/the-u-s-navys-new-insurance-policy-for-war-with-china-is-an-australian-base-764af616</link>
       <description>The Pentagon plans to deploy submarines to an expanding facility in allies’ strategy to deter Beijing.</description>
       <pubDate>Sun, 08 Feb 2026 03:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>How China Helped Iran Cushion the Blow of Sanctions and Fund Its War Machine</title>
+      <link>https://www.wsj.com/world/middle-east/how-china-helped-iran-cushion-the-blow-of-sanctions-and-fund-its-war-machine-6fa2847d</link>
+      <description>Over the past half decade, China has provided Iran with a financial lifeline by buying most of its oil.</description>
+      <pubDate>Tue, 07 Apr 2026 03:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
