@@ -5,12 +5,6 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
-      <title>Pull of the American Dream Weakens for China’s Best and Brightest</title>
-      <link>https://www.wsj.com/world/china/americas-allure-fades-in-china-keeping-talent-away-8733012f</link>
-      <description>U.S. immigration hurdles and fear of crime, amplified by state media, have become reasons for Chinese talent to stay home.</description>
-      <pubDate>Sun, 19 Apr 2026 03:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Founder of Fallen Chinese Property Giant Evergrande Pleads Guilty to Fraud</title>
       <link>https://www.wsj.com/world/china/founder-of-fallen-chinese-property-giant-evergrande-pleads-guilty-to-fraud-25240c8b</link>
       <description>Hui Ka Yan, once one of the world’s richest men, was accused along with the developer whose implosion helped spark a property crisis in China.</description>
@@ -21,6 +15,12 @@
       <link>https://www.wsj.com/opinion/to-beat-china-embrace-open-source-ai-a211bf59</link>
       <description>Proprietary systems were less risky, U.S. officials assumed. That turned out to be a dangerous premise.</description>
       <pubDate>Fri, 17 Apr 2026 20:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pull of the American Dream Weakens for China’s Best and Brightest</title>
+      <link>https://www.wsj.com/world/china/americas-allure-fades-in-china-keeping-talent-away-8733012f</link>
+      <description>U.S. immigration hurdles and fear of crime, amplified by state media, have become reasons for Chinese talent to stay home.</description>
+      <pubDate>Sun, 19 Apr 2026 03:00:00 GMT</pubDate>
     </item>
     <item>
       <title>China’s Economy Starts Year on Strong Footing, but Iran Risks Loom</title>
@@ -39,12 +39,6 @@
       <link>https://www.wsj.com/world/china/china-sharpens-retaliatory-tools-against-u-s-ahead-of-trump-summit-6a3168bc</link>
       <description>Beijing has responded to Washington’s trade pressure with broad but vague threats aimed at foreign businesses.</description>
       <pubDate>Wed, 15 Apr 2026 10:07:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Long Handshake: Xi’s Quiet Grip on Taiwan’s Soul</title>
-      <link>https://www.wsj.com/world/china/the-long-handshake-xis-quiet-grip-on-taiwans-soul-a270e156</link>
-      <description>Plus, Xi uses Taiwan outreach to shape potential U.S. policy shift.</description>
-      <pubDate>Tue, 14 Apr 2026 10:55:00 GMT</pubDate>
     </item>
     <item>
       <title>As China Encroaches, Even New Zealand Is Getting Serious About Its Military</title>
