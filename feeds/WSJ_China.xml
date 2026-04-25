@@ -5,12 +5,6 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
-      <title>Chinese Satellites Over Mideast Battlefield Put U.S. on Edge</title>
-      <link>https://www.wsj.com/world/china/chinese-satellites-over-mideast-battlefield-put-u-s-on-edge-39e0d305</link>
-      <description>Chinese satellite imagery of the conflict zone is potentially offering battlefield guidance to Iran and other U.S. adversaries.</description>
-      <pubDate>Fri, 24 Apr 2026 02:27:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Rules of Origin Set Up U.S.-China Clash in Asia</title>
       <link>https://www.wsj.com/world/china/rules-of-origin-set-up-u-s-china-clash-in-asia-1eea1d01</link>
       <description>Plus, factory owners worry about having to scrap decades-old supplier ties.</description>
@@ -21,6 +15,12 @@
       <link>https://www.wsj.com/opinion/navy-secretary-john-phelan-pentagon-pete-hegseth-donald-trump-china-89393b62</link>
       <description>Pentagon infighting is hurting the chance to rebuild the sea arsenal.</description>
       <pubDate>Thu, 23 Apr 2026 21:49:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chinese Satellites Over Mideast Battlefield Put U.S. on Edge</title>
+      <link>https://www.wsj.com/world/china/chinese-satellites-over-mideast-battlefield-put-u-s-on-edge-39e0d305</link>
+      <description>Chinese satellite imagery of the conflict zone is potentially offering battlefield guidance to Iran and other U.S. adversaries.</description>
+      <pubDate>Fri, 24 Apr 2026 02:27:00 GMT</pubDate>
     </item>
     <item>
       <title>Secretive Shipments of Iranian Oil to China Are Under Threat by U.S.</title>
