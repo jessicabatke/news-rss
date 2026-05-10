@@ -5,16 +5,16 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
-      <title>China’s Export Growth Accelerated in April</title>
-      <link>https://www.wsj.com/world/china/chinas-export-growth-accelerated-in-april-49032b3b</link>
-      <description>China’s export growth accelerated in April after a brief slowdown in March, reinforcing trade’s role as a key stabilizer of the economy.</description>
-      <pubDate>Sat, 09 May 2026 03:16:00 GMT</pubDate>
-    </item>
-    <item>
       <title>China’s Cars Aren’t in the U.S., but Its Auto Parts Are Everywhere</title>
       <link>https://www.wsj.com/business/autos/chinas-cars-arent-in-the-u-s-but-its-auto-parts-are-everywhere-9fd408e5</link>
       <description>Chinese companies have amassed ownership stakes in about 5% of 10,000 auto suppliers in America.</description>
       <pubDate>Sat, 09 May 2026 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>China’s Export Growth Accelerated in April</title>
+      <link>https://www.wsj.com/world/china/chinas-export-growth-accelerated-in-april-49032b3b</link>
+      <description>China’s export growth accelerated in April after a brief slowdown in March, reinforcing trade’s role as a key stabilizer of the economy.</description>
+      <pubDate>Sat, 09 May 2026 03:16:00 GMT</pubDate>
     </item>
     <item>
       <title>China Hands Suspended Death Sentences to Former Defense Ministers for Corruption</title>
@@ -33,12 +33,6 @@
       <link>https://www.wsj.com/world/china/u-s-and-china-pursue-guardrails-to-stop-ai-rivalry-from-spiraling-into-crisis-4c50bd70</link>
       <description>Washington and Beijing recognize that powerful AI models could trigger crises neither side is prepared to manage.</description>
       <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trial Begins for Man Accused of Operating Secret Chinese Police Station in New York</title>
-      <link>https://www.wsj.com/world/china/trial-begins-for-man-accused-of-operating-secret-chinese-police-station-in-new-york-f369bfc3</link>
-      <description>Prosecutors allege the defendant, a U.S. citizen, cooperated with Beijing to harass dissidents.</description>
-      <pubDate>Wed, 06 May 2026 18:48:00 GMT</pubDate>
     </item>
     <item>
       <title>As China Encroaches, Even New Zealand Is Getting Serious About Its Military</title>
