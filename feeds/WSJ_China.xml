@@ -5,6 +5,12 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
+      <title>The Factory Town Known as China’s Furniture Capital Is Fighting to Survive</title>
+      <link>https://www.wsj.com/world/asia/the-factory-town-known-as-chinas-furniture-capital-is-fighting-to-survive-0875bc99</link>
+      <description>The U.S. lost much of its furniture industry to China years ago. Now, American tariffs and overseas competition are punishing manufacturers.</description>
+      <pubDate>Sun, 10 May 2026 11:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>China’s Cars Aren’t in the U.S., but Its Auto Parts Are Everywhere</title>
       <link>https://www.wsj.com/business/autos/chinas-cars-arent-in-the-u-s-but-its-auto-parts-are-everywhere-9fd408e5</link>
       <description>Chinese companies have amassed ownership stakes in about 5% of 10,000 auto suppliers in America.</description>
@@ -45,12 +51,6 @@
       <link>https://www.wsj.com/world/the-u-s-navys-new-insurance-policy-for-war-with-china-is-an-australian-base-764af616</link>
       <description>The Pentagon plans to deploy submarines to an expanding facility in allies’ strategy to deter Beijing.</description>
       <pubDate>Sun, 08 Feb 2026 03:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trial Begins for Man Accused of Operating Secret Chinese Police Station in New York</title>
-      <link>https://www.wsj.com/world/china/trial-begins-for-man-accused-of-operating-secret-chinese-police-station-in-new-york-f369bfc3</link>
-      <description>Prosecutors allege the defendant, a U.S. citizen, cooperated with Beijing to harass dissidents.</description>
-      <pubDate>Wed, 06 May 2026 18:48:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
