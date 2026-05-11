@@ -5,10 +5,22 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
+      <title>Xi’s China: Dazzling Technology, Military Muscle—and an Economic Mess</title>
+      <link>https://www.wsj.com/world/china/xi-china-technology-military-economy-mess-10eb1e22</link>
+      <description>China’s government is pouring money into AI, electric cars and military power, while consumer confidence sags and job market grows bleak.</description>
+      <pubDate>Mon, 11 May 2026 01:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>The Factory Town Known as China’s Furniture Capital Is Fighting to Survive</title>
       <link>https://www.wsj.com/world/asia/the-factory-town-known-as-chinas-furniture-capital-is-fighting-to-survive-0875bc99</link>
       <description>The U.S. lost much of its furniture industry to China years ago. Now, American tariffs and overseas competition are punishing manufacturers.</description>
       <pubDate>Sun, 10 May 2026 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>China Factory-Gate Prices Rise for Second Straight Month</title>
+      <link>https://www.wsj.com/economy/china-factory-gate-prices-rise-for-second-straight-month-3a2acbb2</link>
+      <description>China’s factory-gate inflation gathered momentum in April, fueled by geopolitical tensions in the Middle East that kept energy costs elevated and cemented the end of a nearly four-year deflationary cycle.</description>
+      <pubDate>Mon, 11 May 2026 02:10:00 GMT</pubDate>
     </item>
     <item>
       <title>China’s Cars Aren’t in the U.S., but Its Auto Parts Are Everywhere</title>
@@ -33,12 +45,6 @@
       <link>https://www.wsj.com/world/china/u-k-immigration-official-convicted-in-landmark-china-spying-case-528e657a</link>
       <description>The official was one of two men found guilty of helping China spy on dissidents in the U.K.</description>
       <pubDate>Thu, 07 May 2026 17:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>U.S. and China Pursue Guardrails to Stop AI Rivalry From Spiraling Into Crisis</title>
-      <link>https://www.wsj.com/world/china/u-s-and-china-pursue-guardrails-to-stop-ai-rivalry-from-spiraling-into-crisis-4c50bd70</link>
-      <description>Washington and Beijing recognize that powerful AI models could trigger crises neither side is prepared to manage.</description>
-      <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>As China Encroaches, Even New Zealand Is Getting Serious About Its Military</title>
