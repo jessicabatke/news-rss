@@ -5,16 +5,16 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
-      <title>Xi’s China: Dazzling Technology, Military Muscle—and an Economic Mess</title>
-      <link>https://www.wsj.com/world/china/xi-china-technology-military-economy-mess-10eb1e22</link>
-      <description>China’s government is pouring money into AI, electric cars and military power, while consumer confidence sags and the job market grows bleak.</description>
-      <pubDate>Mon, 11 May 2026 01:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>The Factory Town Known as China’s Furniture Capital Is Fighting to Survive</title>
       <link>https://www.wsj.com/world/asia/the-factory-town-known-as-chinas-furniture-capital-is-fighting-to-survive-0875bc99</link>
       <description>The U.S. lost much of its furniture industry to China years ago. Now, American tariffs and overseas competition are punishing manufacturers.</description>
       <pubDate>Sun, 10 May 2026 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Xi’s China: Dazzling Technology, Military Muscle—and an Economic Mess</title>
+      <link>https://www.wsj.com/world/china/xi-china-technology-military-economy-mess-10eb1e22</link>
+      <description>China’s government is pouring money into AI, electric cars and military power, while consumer confidence sags and the job market grows bleak.</description>
+      <pubDate>Mon, 11 May 2026 01:00:00 GMT</pubDate>
     </item>
     <item>
       <title>China’s Cars Aren’t in the U.S., but Its Auto Parts Are Everywhere</title>
@@ -33,12 +33,6 @@
       <link>https://www.wsj.com/world/china/china-hands-suspended-death-sentences-to-former-defense-ministers-for-corruption-6802b078</link>
       <description>The pair were among dozens of senior military figures ousted in the most extensive purges since the Mao era.</description>
       <pubDate>Fri, 08 May 2026 03:14:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>U.K. Immigration Official Convicted in Landmark China Spying Case</title>
-      <link>https://www.wsj.com/world/china/u-k-immigration-official-convicted-in-landmark-china-spying-case-528e657a</link>
-      <description>The official was one of two men found guilty of helping China spy on dissidents in the U.K.</description>
-      <pubDate>Thu, 07 May 2026 17:01:00 GMT</pubDate>
     </item>
     <item>
       <title>As China Encroaches, Even New Zealand Is Getting Serious About Its Military</title>
