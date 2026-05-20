@@ -5,12 +5,6 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
-      <title>Iran’s Seizure of Chinese Security Ship Shows Its Favors for Friends Have Limits</title>
-      <link>https://www.wsj.com/world/china/irans-seizure-of-chinese-security-ship-shows-its-favors-for-friends-have-limits-f245618e</link>
-      <description>The action near the Strait of Hormuz occurred the day the Trump-Xi summit began in Beijing, with Iran on the agenda.</description>
-      <pubDate>Sat, 16 May 2026 22:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>China Is Throwing Christians in Jail, but This Pastor Refuses to Back Down</title>
       <link>https://www.wsj.com/world/china/china-is-throwing-christians-in-jail-but-this-pastor-refuses-to-back-down-fd4c88dd</link>
       <description>As Xi closed congregations around the country, Ezra Jin found ways to keep Zion Church going—and growing. It set him on a dangerous crash course with Beijing.</description>
@@ -23,10 +17,10 @@
       <pubDate>Fri, 15 May 2026 21:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Opinion | Anthropic vs. China</title>
-      <link>https://www.wsj.com/opinion/anthropic-vs-china-e1df854d</link>
-      <description>National-security threats combine with fears of a looming AI financial shakeout.</description>
-      <pubDate>Tue, 19 May 2026 20:53:00 GMT</pubDate>
+      <title>Opinion | China Gets Sparta All Wrong</title>
+      <link>https://www.wsj.com/opinion/china-gets-sparta-all-wrong-350ba71f</link>
+      <description>Athenians undertook a risky expedition to conquer the island of Sicily, an expedition that led to utter disaster.</description>
+      <pubDate>Wed, 20 May 2026 15:36:00 GMT</pubDate>
     </item>
     <item>
       <title>China, U.S. Reach Limited Trade Agreements on Boeing Jets, Beef Imports</title>
@@ -69,6 +63,12 @@
       <link>https://www.wsj.com/world/the-u-s-navys-new-insurance-policy-for-war-with-china-is-an-australian-base-764af616</link>
       <description>The Pentagon plans to deploy submarines to an expanding facility in allies’ strategy to deter Beijing.</description>
       <pubDate>Sun, 08 Feb 2026 03:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Iran’s Seizure of Chinese Security Ship Shows Its Favors for Friends Have Limits</title>
+      <link>https://www.wsj.com/world/china/irans-seizure-of-chinese-security-ship-shows-its-favors-for-friends-have-limits-f245618e</link>
+      <description>The action near the Strait of Hormuz occurred the day the Trump-Xi summit began in Beijing, with Iran on the agenda.</description>
+      <pubDate>Sat, 16 May 2026 22:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Xi’s Taiwan Warning to Trump Highlights Tensions in Beijing Summit</title>
