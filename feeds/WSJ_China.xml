@@ -5,12 +5,6 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
-      <title>China Eliminates Tariffs on Africa to Outmaneuver Trump</title>
-      <link>https://www.wsj.com/world/africa/china-africa-tariffs-664f62eb</link>
-      <description>African countries are finding it harder to export to the U.S., while China sees it as an opportunity.</description>
-      <pubDate>Tue, 26 May 2026 21:19:00 GMT</pubDate>
-    </item>
-    <item>
       <title>What Readers Found When They Asked Their Chatbots About China</title>
       <link>https://www.wsj.com/world/china/what-readers-found-when-they-asked-their-chatbots-about-china-229e4203</link>
       <description>Plus, a Hollywood screenwriter says historical disputes sank a U.S.-China film project.</description>
@@ -21,6 +15,12 @@
       <link>https://www.wsj.com/world/china/china-coal-mine-explosion-kills-at-least-90-719e92bf</link>
       <description>The country’s deadliest mining disaster since 2009 left more than 100 workers injured and sparked a search for survivors.</description>
       <pubDate>Sun, 24 May 2026 04:24:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>China Is Throwing Christians in Jail, but This Pastor Refuses to Back Down</title>
+      <link>https://www.wsj.com/world/china/china-is-throwing-christians-in-jail-but-this-pastor-refuses-to-back-down-fd4c88dd</link>
+      <description>As Xi closed congregations around the country, Ezra Jin found ways to keep Zion Church going—and growing. It set him on a dangerous crash course with Beijing.</description>
+      <pubDate>Tue, 19 May 2026 01:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Opinion | AI Overwatch Act Would Help China</title>
@@ -53,10 +53,16 @@
       <pubDate>Tue, 19 May 2026 03:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>China Is Throwing Christians in Jail, but This Pastor Refuses to Back Down</title>
-      <link>https://www.wsj.com/world/china/china-is-throwing-christians-in-jail-but-this-pastor-refuses-to-back-down-fd4c88dd</link>
-      <description>As Xi closed congregations around the country, Ezra Jin found ways to keep Zion Church going—and growing. It set him on a dangerous crash course with Beijing.</description>
-      <pubDate>Tue, 19 May 2026 01:00:00 GMT</pubDate>
+      <title>China’s Economy Unexpectedly Weakens as Iran War Fallout Mounts</title>
+      <link>https://www.wsj.com/economy/chinas-april-activity-data-weakens-despite-export-strength-d6e12d09</link>
+      <description>The country’s export machine continues to hum but its economic growth has become increasingly lopsided.</description>
+      <pubDate>Mon, 18 May 2026 10:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>China Eliminates Tariffs on Africa to Outmaneuver Trump</title>
+      <link>https://www.wsj.com/world/africa/china-africa-tariffs-664f62eb</link>
+      <description>African countries are finding it harder to export to the U.S., while China sees it as an opportunity.</description>
+      <pubDate>Tue, 26 May 2026 21:19:00 GMT</pubDate>
     </item>
     <item>
       <title>As China Encroaches, Even New Zealand Is Getting Serious About Its Military</title>
