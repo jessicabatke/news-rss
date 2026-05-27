@@ -5,12 +5,6 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
-      <title>What Readers Found When They Asked Their Chatbots About China</title>
-      <link>https://www.wsj.com/world/china/what-readers-found-when-they-asked-their-chatbots-about-china-229e4203</link>
-      <description>Plus, a Hollywood screenwriter says historical disputes sank a U.S.-China film project.</description>
-      <pubDate>Tue, 26 May 2026 10:55:00 GMT</pubDate>
-    </item>
-    <item>
       <title>China Coal Mine Explosion Kills at Least 82</title>
       <link>https://www.wsj.com/world/china/china-coal-mine-explosion-kills-at-least-90-719e92bf</link>
       <description>The country’s deadliest mining disaster since 2009 left more than 100 workers injured and sparked a search for survivors.</description>
@@ -27,6 +21,12 @@
       <link>https://www.wsj.com/opinion/ai-overwatch-act-would-help-china-5e5e61fe</link>
       <description>Stricter export limits would hurt American companies and blow the U.S. tech lead.</description>
       <pubDate>Tue, 26 May 2026 20:56:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>What Readers Found When They Asked Their Chatbots About China</title>
+      <link>https://www.wsj.com/world/china/what-readers-found-when-they-asked-their-chatbots-about-china-229e4203</link>
+      <description>Plus, a Hollywood screenwriter says historical disputes sank a U.S.-China film project.</description>
+      <pubDate>Tue, 26 May 2026 10:55:00 GMT</pubDate>
     </item>
     <item>
       <title>The Former Air Force Pilot Who Was Allegedly Recruited to Train China’s Military</title>
@@ -51,12 +51,6 @@
       <link>https://www.wsj.com/world/china/xi-jinping-is-now-the-world-leader-he-wanted-to-be-but-it-has-come-at-a-cost-5210c3a8</link>
       <description>The Chinese leader’s policies have strained his country at home but given him great international stature.</description>
       <pubDate>Tue, 19 May 2026 03:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>China’s Economy Unexpectedly Weakens as Iran War Fallout Mounts</title>
-      <link>https://www.wsj.com/economy/chinas-april-activity-data-weakens-despite-export-strength-d6e12d09</link>
-      <description>The country’s export machine continues to hum but its economic growth has become increasingly lopsided.</description>
-      <pubDate>Mon, 18 May 2026 10:05:00 GMT</pubDate>
     </item>
     <item>
       <title>China Eliminates Tariffs on Africa to Outmaneuver Trump</title>
