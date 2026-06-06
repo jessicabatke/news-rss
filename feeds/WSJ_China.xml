@@ -5,12 +5,6 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
-      <title>American Pleads Guilty to Working as Chinese Agent in U.S.</title>
-      <link>https://www.wsj.com/world/china/american-pleads-guilty-to-working-in-u-s-as-chinese-agent-c9e9530c</link>
-      <description>Thomas Pauken II is the latest in a series of prosecutions of Americans accused of secretly working for Beijing.</description>
-      <pubDate>Fri, 05 Jun 2026 13:15:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Xi to Leave China for First Time This Year. Destination: Pyongyang.</title>
       <link>https://www.wsj.com/world/asia/xi-to-leave-china-for-first-time-this-year-destination-pyongyang-8d9ff7d1</link>
       <description>The visit speaks to North Korea’s rising importance among the U.S.’s biggest adversaries.</description>
@@ -21,6 +15,12 @@
       <link>https://www.wsj.com/opinion/china-gets-anxious-enough-to-choose-worker-freedom-b22478bd</link>
       <description>Beijing reforms its system of resident registration, which creates a domestic migrant underclass.</description>
       <pubDate>Thu, 04 Jun 2026 18:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>American Pleads Guilty to Working as Chinese Agent in U.S.</title>
+      <link>https://www.wsj.com/world/china/american-pleads-guilty-to-working-in-u-s-as-chinese-agent-c9e9530c</link>
+      <description>Thomas Pauken II is the latest in a series of prosecutions of Americans accused of secretly working for Beijing.</description>
+      <pubDate>Fri, 05 Jun 2026 13:15:00 GMT</pubDate>
     </item>
     <item>
       <title>HSBC, StanChart Shares Slide as New Rules Could Restrict Chinese Funds in Hong Kong Accounts</title>
@@ -45,12 +45,6 @@
       <link>https://www.wsj.com/economy/china-steps-up-restrictions-over-outbound-investments-d79f2a99</link>
       <description>The new rules are part of Beijing’s playbook to protect technology it views as critical to its national security.</description>
       <pubDate>Mon, 01 Jun 2026 04:47:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Taiwan’s Opposition Leader Comes to U.S. With a Message Straight Out of Beijing</title>
-      <link>https://www.wsj.com/world/china/taiwans-opposition-leader-comes-to-u-s-with-a-message-straight-out-of-beijing-1561596b</link>
-      <description>Cheng Li-wun is set to begin a two-week U.S. tour as Beijing urges Washington to rethink its support for Taipei.</description>
-      <pubDate>Mon, 01 Jun 2026 02:00:00 GMT</pubDate>
     </item>
     <item>
       <title>As China Encroaches, Even New Zealand Is Getting Serious About Its Military</title>
