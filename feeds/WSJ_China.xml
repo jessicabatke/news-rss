@@ -5,16 +5,16 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
+      <title>Chinese Nuclear Submarine Test-Launches Long-Range Missile</title>
+      <link>https://www.wsj.com/world/china/chinese-nuclear-submarine-test-launches-long-range-missile-49923882</link>
+      <description>Some countries in the region were quick to criticize the launch, which China sought to play down.</description>
+      <pubDate>Mon, 06 Jul 2026 11:22:00 GMT</pubDate>
+    </item>
+    <item>
       <title>China Releases Imprisoned Pastor Ezra Jin After U.S. Pressure</title>
       <link>https://www.wsj.com/world/china/china-releases-imprisoned-pastor-ezra-jin-after-u-s-pressure-340d6d08</link>
       <description>The leader of a prominent Chinese underground church arrived in Los Angeles on Friday, his family said.</description>
       <pubDate>Sun, 05 Jul 2026 04:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>How Xi Jinping Steamrolls Dissent With Tactics From Stalin and Mao</title>
-      <link>https://www.wsj.com/world/china/xi-jinping-leadership-tactics-china-318b3413</link>
-      <description>China’s leader draws from autocrats’ playbook to expand power, oust potential rivals and lay groundwork to rule indefinitely.</description>
-      <pubDate>Sun, 05 Jul 2026 01:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Tibet-Born Man Dies Outside U.N. After Appearing to Set Himself on Fire</title>
@@ -27,6 +27,12 @@
       <link>https://www.wsj.com/economy/china-is-devastating-the-last-stronghold-of-german-industry-c7a98514</link>
       <description>Midsize companies that employ millions of workers are now shedding jobs and relocating overseas to cut costs.</description>
       <pubDate>Sat, 04 Jul 2026 02:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>How Xi Jinping Steamrolls Dissent With Tactics From Stalin and Mao</title>
+      <link>https://www.wsj.com/world/china/xi-jinping-leadership-tactics-china-318b3413</link>
+      <description>China’s leader draws from autocrats’ playbook to expand power, oust potential rivals and lay groundwork to rule indefinitely.</description>
+      <pubDate>Sun, 05 Jul 2026 01:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Beijing Says Pilot Who Crashed Into Skyscraper Had Suicidal Thoughts</title>
@@ -53,12 +59,6 @@
       <pubDate>Wed, 01 Jul 2026 02:38:00 GMT</pubDate>
     </item>
     <item>
-      <title>Beyond Politics: A China-Born Journalist’s American Story</title>
-      <link>https://www.wsj.com/world/china/beyond-politics-a-china-born-journalists-american-story-6888c145</link>
-      <description>Plus, a professor’s lesson: The First Amendment favors verifying facts over accepting government claims</description>
-      <pubDate>Tue, 30 Jun 2026 10:55:00 GMT</pubDate>
-    </item>
-    <item>
       <title>As China Encroaches, Even New Zealand Is Getting Serious About Its Military</title>
       <link>https://www.wsj.com/world/oceania/new-zealand-military-china-2a776b24</link>
       <description>Billions will be spent in the coming years—including on missiles, drones and base upgrades—as the remote country squares up to a widening threat.</description>
@@ -69,6 +69,12 @@
       <link>https://www.wsj.com/world/the-u-s-navys-new-insurance-policy-for-war-with-china-is-an-australian-base-764af616</link>
       <description>The Pentagon plans to deploy submarines to an expanding facility in allies’ strategy to deter Beijing.</description>
       <pubDate>Sun, 08 Feb 2026 03:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>How Xi Jinping Steamrolls Dissent With Tactics From Stalin and Mao</title>
+      <link>https://www.wsj.com/world/china/xi-jinping-leadership-tactics-china-318b3413</link>
+      <description>China’s leader draws from autocrats’ playbook to expand power, oust potential rivals and lay groundwork to rule indefinitely.</description>
+      <pubDate>Sun, 05 Jul 2026 01:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
