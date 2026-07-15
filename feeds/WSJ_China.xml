@@ -5,10 +5,16 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
-      <title>China Holds U.S. Seismologist on Espionage Charges</title>
-      <link>https://www.wsj.com/world/china/china-holds-u-s-seismologist-on-espionage-charges-3c359d7f</link>
-      <description>Youlin Chen’s research focused on nuclear testing by North Korea.</description>
-      <pubDate>Tue, 14 Jul 2026 19:48:00 GMT</pubDate>
+      <title>China’s Economy Grows at Weakest Pace Since 2022</title>
+      <link>https://www.wsj.com/world/china/chinas-growth-cools-more-than-expected-in-second-quarter-132e0670</link>
+      <description>China’s gross domestic product expanded 4.3% in the second quarter, as a dismal domestic economy offset surging exports.</description>
+      <pubDate>Wed, 15 Jul 2026 04:12:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>China Aggressively Patrols Disputed Waters. Now the U.S. Coast Guard Is Moving In.</title>
+      <link>https://www.wsj.com/world/asia/china-aggressively-patrols-disputed-waters-now-the-u-s-coast-guard-is-moving-in-89d6a646</link>
+      <description>Several ships have been pulled from the Middle East to help challenge Beijing’s assertion of power in the Pacific.</description>
+      <pubDate>Wed, 15 Jul 2026 03:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Forget France: China Is the New Foie Gras Champion</title>
@@ -27,6 +33,12 @@
       <link>https://www.wsj.com/opinion/peter-navarro-america-can-break-chinas-choke-hold-on-critical-minerals-5ee6ad4d</link>
       <description>As we did during Covid, the government is helping U.S. companies to meet national-security needs.</description>
       <pubDate>Tue, 14 Jul 2026 21:55:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>China Holds U.S. Seismologist on Espionage Charges</title>
+      <link>https://www.wsj.com/world/china/china-holds-u-s-seismologist-on-espionage-charges-3c359d7f</link>
+      <description>Youlin Chen’s research focused on nuclear testing by North Korea.</description>
+      <pubDate>Tue, 14 Jul 2026 19:48:00 GMT</pubDate>
     </item>
     <item>
       <title>He Called Out China’s Economy. Then He Went Silent—for Good.</title>
@@ -51,12 +63,6 @@
       <link>https://www.wsj.com/tech/china-successfully-launches-reusable-rocket-in-a-win-for-space-program-a891c5c6</link>
       <description>China launched and partially recovered a rocket, a milestone for Beijing’s space program as it competes with the U.S. and Elon Musk’s SpaceX.</description>
       <pubDate>Fri, 10 Jul 2026 14:42:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>China’s Factory-Price Growth Quickens, Consumer Inflation Eases</title>
-      <link>https://www.wsj.com/economy/chinas-factory-gate-inflation-accelerates-243c8b9d</link>
-      <description>China’s factory-gate inflation accelerated in June as the effects of the Middle East conflict continued to ripple through the economy, but consumer-price gains cooled, suggesting persistent weakness in domestic demand.</description>
-      <pubDate>Thu, 09 Jul 2026 03:43:00 GMT</pubDate>
     </item>
     <item>
       <title>As China Encroaches, Even New Zealand Is Getting Serious About Its Military</title>
