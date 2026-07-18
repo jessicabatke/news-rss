@@ -5,12 +5,6 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
-      <title>Trump Stirs China Tensions With Claims That It Meddled in U.S. Elections</title>
-      <link>https://www.wsj.com/world/china/trumps-allegations-of-chinese-interference-in-u-s-elections-stir-tensions-with-beijing-c7dd49d5</link>
-      <description>The claims that China meddled in the 2020 elections threaten to erode an uneasy detente between the two superpowers.</description>
-      <pubDate>Fri, 17 Jul 2026 09:17:00 GMT</pubDate>
-    </item>
-    <item>
       <title>China’s Two-Speed Economy Pairs High-Tech Success With Domestic Gloom</title>
       <link>https://www.wsj.com/world/china/china-economy-tech-property-03444d83</link>
       <description>The country’s soaring exports and tech prowess hide a brutal economic picture and a growing army of underemployed workers at home.</description>
@@ -21,6 +15,12 @@
       <link>https://www.wsj.com/opinion/chinas-economy-is-in-worse-shape-than-you-think-95792af7</link>
       <description>The estimate of 4.3% GDP growth is below Beijing’s lowest projection—and it’s probably far too high.</description>
       <pubDate>Thu, 16 Jul 2026 20:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trump Stirs China Tensions With Claims That It Meddled in U.S. Elections</title>
+      <link>https://www.wsj.com/world/china/trumps-allegations-of-chinese-interference-in-u-s-elections-stir-tensions-with-beijing-c7dd49d5</link>
+      <description>The claims that China meddled in the 2020 elections threaten to erode an uneasy detente between the two superpowers.</description>
+      <pubDate>Fri, 17 Jul 2026 09:17:00 GMT</pubDate>
     </item>
     <item>
       <title>China Wields Security Laws to Cow Hong Kong’s Once-Free Literary Scene</title>
@@ -39,12 +39,6 @@
       <link>https://www.wsj.com/world/china/chinas-growth-cools-more-than-expected-in-second-quarter-132e0670</link>
       <description>The country’s surging exports, buoyed by the artificial-intelligence boom, failed to compensate for a struggling domestic economy and sluggish consumer spending.</description>
       <pubDate>Wed, 15 Jul 2026 10:42:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>China Holds U.S. Seismologist on Espionage Charges</title>
-      <link>https://www.wsj.com/world/china/china-holds-u-s-seismologist-on-espionage-charges-3c359d7f</link>
-      <description>Youlin Chen’s research focused on nuclear testing by North Korea.</description>
-      <pubDate>Tue, 14 Jul 2026 19:48:00 GMT</pubDate>
     </item>
     <item>
       <title>As China Encroaches, Even New Zealand Is Getting Serious About Its Military</title>
