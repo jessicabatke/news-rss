@@ -5,12 +5,6 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
-      <title>Wanted for Rearming Against Russia and China: More Cotton</title>
-      <link>https://www.wsj.com/world/europe/wanted-for-rearming-against-russia-and-china-more-cotton-3261e16f</link>
-      <description>To fire big ammunition, militaries need explosive chemicals derived from natural fibers that suddenly are in short supply.</description>
-      <pubDate>Mon, 20 Jul 2026 15:04:00 GMT</pubDate>
-    </item>
-    <item>
       <title>China’s Campaign to Suffocate Taiwan Is Hitting Children’s Choirs and Baristas</title>
       <link>https://www.wsj.com/world/china/chinas-campaign-to-suffocate-taiwan-is-hitting-childrens-choirs-and-baristas-27c8fdde</link>
       <description>Beijing has got creative in its continuing efforts to undermine the island’s international standing.</description>
@@ -21,6 +15,18 @@
       <link>https://www.wsj.com/world/china/china-economy-tech-property-03444d83</link>
       <description>The country’s soaring exports and tech prowess hide a brutal economic picture and a growing army of underemployed workers at home.</description>
       <pubDate>Thu, 16 Jul 2026 23:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Opinion | Trump to China: Deal Me In</title>
+      <link>https://www.wsj.com/opinion/trump-to-china-deal-me-in-3b1e0ff4</link>
+      <description>Did America get anything in return for the huge concession it made to Beijing?</description>
+      <pubDate>Mon, 20 Jul 2026 21:31:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wanted for Rearming Against Russia and China: More Cotton</title>
+      <link>https://www.wsj.com/world/europe/wanted-for-rearming-against-russia-and-china-more-cotton-3261e16f</link>
+      <description>To fire big ammunition, militaries need explosive chemicals derived from natural fibers that suddenly are in short supply.</description>
+      <pubDate>Mon, 20 Jul 2026 15:04:00 GMT</pubDate>
     </item>
     <item>
       <title>Trump Stirs China Tensions With Claims That It Meddled in U.S. Elections</title>
