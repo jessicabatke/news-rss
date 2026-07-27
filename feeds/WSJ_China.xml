@@ -5,10 +5,10 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
-      <title>U.S. and China Are Jockeying for Drone Supremacy on Mount Everest</title>
-      <link>https://www.wsj.com/world/u-s-and-china-are-jockeying-for-drone-supremacy-on-mount-everest-b5750ce2</link>
-      <description>Washington is seeking an edge for American technology in the race to support climbers. But China had a head start.</description>
-      <pubDate>Sun, 26 Jul 2026 09:30:00 GMT</pubDate>
+      <title>China’s Tycoons Made Fortunes Offshore. Now the Party Is Over.</title>
+      <link>https://www.wsj.com/world/china/chinas-tycoons-made-fortunes-offshore-now-the-party-is-over-7f5289ad</link>
+      <description>In a series of new rules and laws, China is reordering the wealth landscape, seeking to better control how money leaves the country.</description>
+      <pubDate>Mon, 27 Jul 2026 02:00:00 GMT</pubDate>
     </item>
     <item>
       <title>China’s Campaign to Suffocate Taiwan Is Hitting Children’s Choirs and Baristas</title>
@@ -75,6 +75,12 @@
       <link>https://www.wsj.com/world/the-u-s-navys-new-insurance-policy-for-war-with-china-is-an-australian-base-764af616</link>
       <description>The Pentagon plans to deploy submarines to an expanding facility in allies’ strategy to deter Beijing.</description>
       <pubDate>Sun, 08 Feb 2026 03:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>U.S. and China Are Jockeying for Drone Supremacy on Mount Everest</title>
+      <link>https://www.wsj.com/world/u-s-and-china-are-jockeying-for-drone-supremacy-on-mount-everest-b5750ce2</link>
+      <description>Washington is seeking an edge for American technology in the race to support climbers. But China had a head start.</description>
+      <pubDate>Sun, 26 Jul 2026 09:30:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
