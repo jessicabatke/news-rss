@@ -5,12 +5,6 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
-      <title>Zhu Rongji, Engineer of China’s Economic Overhaul, Dies at 97</title>
-      <link>https://www.wsj.com/world/china/zhu-rongji-engineer-of-chinas-economic-overhaul-dies-at-97-0df84c86?mod=rss_worldnews</link>
-      <description>The former premier steered China toward Western market principles and championed its entry into the World Trade Organization.</description>
-      <pubDate>Wed, 12 Aug 2026 10:52:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Will Taiwan Fight China? Just Ask Its People</title>
       <link>https://www.wsj.com/world/asia/will-taiwan-fight-china-just-ask-its-people-a6e358eb?mod=rss_worldnews</link>
       <description>Five Taiwanese discuss their future under the shadow of Beijing.</description>
@@ -35,6 +29,12 @@
       <pubDate>Wed, 12 Aug 2026 21:33:00 GMT</pubDate>
     </item>
     <item>
+      <title>Zhu Rongji, Engineer of China’s Economic Overhaul, Dies at 97</title>
+      <link>https://www.wsj.com/world/china/zhu-rongji-engineer-of-chinas-economic-overhaul-dies-at-97-0df84c86?mod=rss_worldnews</link>
+      <description>The former premier steered China toward Western market principles and championed its entry into the World Trade Organization.</description>
+      <pubDate>Wed, 12 Aug 2026 10:52:00 GMT</pubDate>
+    </item>
+    <item>
       <title>The Morning Risk Report: U.K. Discovers Component in Its Naval Drones Sent Signals to China</title>
       <link>https://www.wsj.com/cio-journal/the-morning-risk-report-u-k-discovers-component-in-its-naval-drones-sent-signals-to-china-6bff9f6c?mod=rss_worldnews</link>
       <description>Plus: FDA ingredient disclosure rules; Taiwanese citizens on China</description>
@@ -57,12 +57,6 @@
       <link>https://www.wsj.com/business/retail/china-inflation-cools-more-than-expected-in-july-a9f71d94?mod=rss_worldnews</link>
       <description>China’s consumer and factory-gate price growth both cooled more than expected last month, suggesting tepid domestic demand and reflecting the impact of extreme weather and declining oil costs.</description>
       <pubDate>Sun, 09 Aug 2026 02:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>A Lost Civilization Is Baffling Experts and Rewriting China’s Origin Story</title>
-      <link>https://www.wsj.com/world/china/a-lost-civilization-is-baffling-experts-and-rewriting-chinas-origin-story-cda8dba7?mod=rss_worldnews</link>
-      <description>The otherworldly beasts and enigmatic masks of Sanxingdui still enthrall China, decades after the unearthing of ceremonial pits.</description>
-      <pubDate>Sat, 08 Aug 2026 03:00:00 GMT</pubDate>
     </item>
     <item>
       <title>As China Encroaches, Even New Zealand Is Getting Serious About Its Military</title>
