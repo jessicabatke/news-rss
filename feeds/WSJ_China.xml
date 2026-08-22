@@ -5,12 +5,6 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
-      <title>Hong Kong Court Convicts Activists Who Organized Tiananmen Vigils</title>
-      <link>https://www.wsj.com/world/china/hong-kong-court-convicts-activists-who-organized-tiananmen-vigils-39d49bfa?mod=rss_worldnews</link>
-      <description>The annual events drew large crowds before Beijing cemented its grip and outlawed dissent.</description>
-      <pubDate>Fri, 21 Aug 2026 02:44:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Chinese Tycoon Who Symbolized Property Bust Is Sentenced to Life in Prison</title>
       <link>https://www.wsj.com/world/china/evergrande-founder-sentenced-to-life-in-prison-091d93d1?mod=rss_worldnews</link>
       <description>A court found Evergrande founder Hui Ka Yan, a Harvard donor, responsible for large-scale fraud to hide debts.</description>
@@ -27,6 +21,12 @@
       <link>https://www.wsj.com/opinion/darline-graham-taiwan-china-pacific-ralph-norman-758312b4?mod=rss_worldnews</link>
       <description>The South Carolina Senate candidate’s goof wasn’t good, but neither was the answer by her competitor, Ralph Norman.</description>
       <pubDate>Thu, 20 Aug 2026 21:40:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hong Kong Court Convicts Activists Who Organized Tiananmen Vigils</title>
+      <link>https://www.wsj.com/world/china/hong-kong-court-convicts-activists-who-organized-tiananmen-vigils-39d49bfa?mod=rss_worldnews</link>
+      <description>The annual events drew large crowds before Beijing cemented its grip and outlawed dissent.</description>
+      <pubDate>Fri, 21 Aug 2026 02:44:00 GMT</pubDate>
     </item>
     <item>
       <title>The Brains Who Powered China’s Surprising AI Leap</title>
@@ -51,12 +51,6 @@
       <link>https://www.wsj.com/economy/chinas-economic-activity-weakened-in-july-0ce9bde7?mod=rss_worldnews</link>
       <description>Economic activity cooled as surging exports fueled by the AI boom failed to offset weakness in domestic demand.</description>
       <pubDate>Mon, 17 Aug 2026 09:20:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Little-Known China Company Faces Scrutiny for Funding Iran</title>
-      <link>https://www.wsj.com/world/china/hengli-china-oil-company-iran-c802475a?mod=rss_worldnews</link>
-      <description>Hengli has denied accusations that it imported crude that was under sanction.</description>
-      <pubDate>Sun, 16 Aug 2026 02:00:00 GMT</pubDate>
     </item>
     <item>
       <title>As China Encroaches, Even New Zealand Is Getting Serious About Its Military</title>
