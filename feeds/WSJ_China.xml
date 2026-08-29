@@ -5,16 +5,16 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
+      <title>Why the World Needs to Force China’s Yuan to Revalue</title>
+      <link>https://www.wsj.com/economy/trade/why-the-world-needs-to-force-chinas-yuan-to-revalue-2db5ff9c?mod=rss_worldnews</link>
+      <description>China is flooding the world with cheap exports. An accord to revalue its currency might be the only solution.</description>
+      <pubDate>Fri, 28 Aug 2026 14:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>How Devastating Floods Created High in the Himalayas Swept Through Nepal and China</title>
       <link>https://www.wsj.com/world/india/more-than-1-400-missing-in-nepal-and-china-in-floods-likely-sparked-by-glacier-break-39fb0cac?mod=rss_worldnews</link>
       <description>More than 1,450 people, including pilgrims and children, have vanished in a wave of destruction likely sparked by a broken glacier. At least 390 people are dead.</description>
       <pubDate>Thu, 27 Aug 2026 18:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>See How the Deadly Flooding in Nepal and China Unfolded</title>
-      <link>https://www.wsj.com/science/environment/see-how-the-deadly-flooding-in-nepal-and-china-unfolded-93c25a12?mod=rss_worldnews</link>
-      <description>The devastating tsunami-like wave likely began when part of a glacier plummeted into a mountain valley, scientists believe.</description>
-      <pubDate>Thu, 27 Aug 2026 15:59:00 GMT</pubDate>
     </item>
     <item>
       <title>Taiwan Lines Up $7 Billion Boost for Drone Builders to Counter China</title>
@@ -47,12 +47,6 @@
       <pubDate>Sun, 23 Aug 2026 02:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Hong Kong Court Convicts Activists Who Organized Tiananmen Vigils</title>
-      <link>https://www.wsj.com/world/china/hong-kong-court-convicts-activists-who-organized-tiananmen-vigils-39d49bfa?mod=rss_worldnews</link>
-      <description>The annual events drew large crowds before Beijing cemented its grip and outlawed dissent.</description>
-      <pubDate>Fri, 21 Aug 2026 02:44:00 GMT</pubDate>
-    </item>
-    <item>
       <title>As China Encroaches, Even New Zealand Is Getting Serious About Its Military</title>
       <link>https://www.wsj.com/world/oceania/new-zealand-military-china-2a776b24?mod=rss_worldnews</link>
       <description>Billions will be spent in the coming years—including on missiles, drones and base upgrades—as the remote country squares up to a widening threat.</description>
@@ -63,6 +57,12 @@
       <link>https://www.wsj.com/world/the-u-s-navys-new-insurance-policy-for-war-with-china-is-an-australian-base-764af616?mod=rss_worldnews</link>
       <description>The Pentagon plans to deploy submarines to an expanding facility in allies’ strategy to deter Beijing.</description>
       <pubDate>Sun, 08 Feb 2026 03:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>See How the Deadly Flooding in Nepal and China Unfolded</title>
+      <link>https://www.wsj.com/science/environment/see-how-the-deadly-flooding-in-nepal-and-china-unfolded-93c25a12?mod=rss_worldnews</link>
+      <description>The devastating tsunami-like wave likely began when part of a glacier plummeted into a mountain valley, scientists believe.</description>
+      <pubDate>Thu, 27 Aug 2026 15:59:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
