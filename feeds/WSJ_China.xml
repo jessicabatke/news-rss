@@ -5,16 +5,16 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
-      <title>Xi Jinping Skipped One Dinner—and Sparked a Flurry of Questions About His Health</title>
-      <link>https://www.wsj.com/world/china/xi-jinping-skipped-one-dinnerand-sparked-a-flurry-of-questions-about-his-health-348b55b7?mod=rss_worldnews</link>
-      <description>The Chinese leader felt unwell at the recent Brics event in India, reviving worries over who would succeed him.</description>
-      <pubDate>Fri, 18 Sep 2026 23:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>China’s Economic Troubles Reach the Mushroom Hunters of Shangri-La</title>
       <link>https://www.wsj.com/world/china/chinas-economic-troubles-reach-the-mushroom-hunters-of-shangri-la-ea4cd49d?mod=rss_worldnews</link>
       <description>High in the Himalayas, cutthroat competition is squeezing the Tibetans who scour the hills several weeks a year for a prized delicacy.</description>
       <pubDate>Sat, 12 Sep 2026 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Xi Jinping Skipped One Dinner—and Sparked a Flurry of Questions About His Health</title>
+      <link>https://www.wsj.com/world/china/xi-jinping-skipped-one-dinnerand-sparked-a-flurry-of-questions-about-his-health-348b55b7?mod=rss_worldnews</link>
+      <description>The Chinese leader felt unwell at the recent Brics event in India, reviving worries over who would succeed him.</description>
+      <pubDate>Fri, 18 Sep 2026 23:00:00 GMT</pubDate>
     </item>
     <item>
       <title>The U.S. and China Want AI Guardrails. But Their Ideas Couldn’t Be More Different.</title>
