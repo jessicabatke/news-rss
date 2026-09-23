@@ -5,6 +5,12 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
+      <title>The Behind-the-Scenes Push to Get Xi a Red Carpet Welcome in America</title>
+      <link>https://www.wsj.com/world/china/trump-xi-meeting-china-image-df83c33f?mod=rss_worldnews</link>
+      <description>The two sides have spent weeks discussing the trappings of the Chinese leader’s Washington visit, while leaving the biggest sources of tension largely untouched.</description>
+      <pubDate>Wed, 23 Sep 2026 03:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>In Trump, Xi Sees ‘Rare Window’ to Convince Taiwan That Resistance Is Futile</title>
       <link>https://www.wsj.com/world/china/trump-xi-taiwan-f236f228?mod=rss_worldnews</link>
       <description>Beijing is courting Taiwan’s opposition—and quietly helped stage its leader’s landmark visit to the mainland—to pull the island into its orbit.</description>
@@ -75,12 +81,6 @@
       <link>https://www.wsj.com/world/china/trump-xi-taiwan-f236f228?mod=rss_worldnews</link>
       <description>Beijing is courting Taiwan’s opposition—and quietly helped stage its leader’s landmark visit to the mainland—to pull the island into its orbit.</description>
       <pubDate>Tue, 22 Sep 2026 01:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Driscoll’s Gave China Its Blueberries—Then China Swiped the Secret to Growing Them</title>
-      <link>https://www.wsj.com/business/driscolls-berry-farms-china-competition-b0b49f04?mod=rss_worldnews</link>
-      <description>The California grower’s expansion into China ignited local competition and widespread intellectual-property theft. Private investigators went undercover at nurseries.</description>
-      <pubDate>Tue, 15 Sep 2026 01:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
