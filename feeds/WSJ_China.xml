@@ -5,12 +5,6 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
-      <title>Trump Summit With Xi Unlikely to Include Chinese CEOs</title>
-      <link>https://www.wsj.com/world/china/trump-summit-with-xi-unlikely-to-include-chinese-ceos-7a9e90dd?mod=rss_worldnews</link>
-      <description>The likely absence of a Chinese corporate delegation highlights the low expectations for significant business results from the meeting.</description>
-      <pubDate>Tue, 22 Sep 2026 15:35:00 GMT</pubDate>
-    </item>
-    <item>
       <title>In Trump, Xi Sees ‘Rare Window’ to Convince Taiwan That Resistance Is Futile</title>
       <link>https://www.wsj.com/world/china/trump-xi-taiwan-f236f228?mod=rss_worldnews</link>
       <description>Beijing is courting Taiwan’s opposition—and quietly helped stage its leader’s landmark visit to the mainland—to pull the island into its orbit.</description>
@@ -23,10 +17,10 @@
       <pubDate>Mon, 21 Sep 2026 21:41:00 GMT</pubDate>
     </item>
     <item>
-      <title>Opinion | AI’s Threat to China’s Control</title>
-      <link>https://www.wsj.com/opinion/ais-threat-to-chinas-control-8d7d9966?mod=rss_worldnews</link>
-      <description>Artificial intelligence isn’t very intelligent if its knowledge base is lies and propaganda.</description>
-      <pubDate>Mon, 21 Sep 2026 21:12:00 GMT</pubDate>
+      <title>Trump Summit With Xi Unlikely to Include Chinese CEOs</title>
+      <link>https://www.wsj.com/world/china/trump-summit-with-xi-unlikely-to-include-chinese-ceos-7a9e90dd?mod=rss_worldnews</link>
+      <description>The likely absence of a Chinese corporate delegation highlights the low expectations for significant business results from the meeting.</description>
+      <pubDate>Tue, 22 Sep 2026 15:35:00 GMT</pubDate>
     </item>
     <item>
       <title>Before the Trump-Xi Summit, an Insider’s Read on How Beijing Sees Taiwan</title>
@@ -81,6 +75,12 @@
       <link>https://www.wsj.com/world/china/trump-xi-taiwan-f236f228?mod=rss_worldnews</link>
       <description>Beijing is courting Taiwan’s opposition—and quietly helped stage its leader’s landmark visit to the mainland—to pull the island into its orbit.</description>
       <pubDate>Tue, 22 Sep 2026 01:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Driscoll’s Gave China Its Blueberries—Then China Swiped the Secret to Growing Them</title>
+      <link>https://www.wsj.com/business/driscolls-berry-farms-china-competition-b0b49f04?mod=rss_worldnews</link>
+      <description>The California grower’s expansion into China ignited local competition and widespread intellectual-property theft. Private investigators went undercover at nurseries.</description>
+      <pubDate>Tue, 15 Sep 2026 01:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
