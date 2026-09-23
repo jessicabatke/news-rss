@@ -5,12 +5,6 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
-      <title>The Behind-the-Scenes Push to Get Xi a Red Carpet Welcome in America</title>
-      <link>https://www.wsj.com/world/china/trump-xi-meeting-china-image-df83c33f?mod=rss_worldnews</link>
-      <description>The two sides have spent weeks discussing the trappings of the Chinese leader’s Washington visit, while leaving the biggest sources of tension largely untouched.</description>
-      <pubDate>Wed, 23 Sep 2026 17:17:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Yemen’s Houthis, Threatening Global Oil, Are Increasingly Supplied by China</title>
       <link>https://www.wsj.com/world/middle-east/yemens-houthis-threatening-global-oil-are-increasingly-supplied-by-china-6bfcfeec?mod=rss_worldnews</link>
       <description>Chinese firms are the biggest source of seized goods bound for the militant group.</description>
@@ -23,10 +17,10 @@
       <pubDate>Tue, 22 Sep 2026 01:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Opinion | What Does Trump Want From Xi?</title>
-      <link>https://www.wsj.com/opinion/donald-trump-xi-jinping-summit-china-white-house-0bbaac5f?mod=rss_worldnews</link>
-      <description>Start with no more help for Iran to target and kill Americans.</description>
-      <pubDate>Mon, 21 Sep 2026 21:41:00 GMT</pubDate>
+      <title>The Behind-the-Scenes Push to Get Xi a Red Carpet Welcome in America</title>
+      <link>https://www.wsj.com/world/china/trump-xi-meeting-china-image-df83c33f?mod=rss_worldnews</link>
+      <description>The two sides have spent weeks discussing the trappings of the Chinese leader’s Washington visit, while leaving the biggest sources of tension largely untouched.</description>
+      <pubDate>Wed, 23 Sep 2026 17:17:00 GMT</pubDate>
     </item>
     <item>
       <title>Trump Summit With Xi Unlikely to Include Chinese CEOs</title>
@@ -51,12 +45,6 @@
       <link>https://www.wsj.com/world/china/xi-jinping-skipped-one-dinnerand-sparked-a-flurry-of-questions-about-his-health-348b55b7?mod=rss_worldnews</link>
       <description>The Chinese leader felt unwell at the recent Brics event in India, reviving worries over who would succeed him.</description>
       <pubDate>Fri, 18 Sep 2026 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>The U.S. and China Want AI Guardrails. But Their Ideas Couldn’t Be More Different.</title>
-      <link>https://www.wsj.com/world/china/u-s-and-china-agree-ai-needs-guardrails-their-ideas-are-very-different-845415ff?mod=rss_worldnews</link>
-      <description>American dialogue has centered on protecting humanity from the technology, while Beijing is chiefly concerned with safeguarding the Communist Party.</description>
-      <pubDate>Fri, 18 Sep 2026 02:00:00 GMT</pubDate>
     </item>
     <item>
       <title>As China Encroaches, Even New Zealand Is Getting Serious About Its Military</title>
@@ -87,6 +75,12 @@
       <link>https://www.wsj.com/world/china/trump-xi-taiwan-f236f228?mod=rss_worldnews</link>
       <description>Beijing is courting Taiwan’s opposition—and quietly helped stage its leader’s landmark visit to the mainland—to pull the island into its orbit.</description>
       <pubDate>Tue, 22 Sep 2026 01:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Behind-the-Scenes Push to Get Xi a Red Carpet Welcome in America</title>
+      <link>https://www.wsj.com/world/china/trump-xi-meeting-china-image-df83c33f?mod=rss_worldnews</link>
+      <description>The two sides have spent weeks discussing the trappings of the Chinese leader’s Washington visit, while leaving the biggest sources of tension largely untouched.</description>
+      <pubDate>Wed, 23 Sep 2026 17:17:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
