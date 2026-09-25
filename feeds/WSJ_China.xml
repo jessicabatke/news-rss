@@ -5,10 +5,16 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
-      <title>Trump Welcomes Xi to White House With Pomp and Pageantry</title>
+      <title>Trump Welcomes Xi to White House With Pageantry but Few Concrete Gains</title>
       <link>https://www.wsj.com/world/china/trump-kicks-off-white-house-summit-with-chinas-xi-575b06ec?mod=rss_worldnews</link>
-      <description>The summit marks Xi Jinping‘s first visit to Washington in more than a decade, as the two leaders look to ease brewing tensions over the war in Iran, artificial intelligence and trade.</description>
-      <pubDate>Thu, 24 Sep 2026 18:56:00 GMT</pubDate>
+      <description>The summit marks Xi Jinping‘s first visit to Washington in over a decade, as the two leaders look to ease brewing tensions over the war in Iran, artificial intelligence and trade.</description>
+      <pubDate>Fri, 25 Sep 2026 02:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Five Takeaways From Trump’s Washington Summit With Xi</title>
+      <link>https://www.wsj.com/world/china/five-takeaways-from-trumps-washington-summit-with-xi-88772c6d?mod=rss_worldnews</link>
+      <description>The summit was heavy on ceremony and light on outcomes, concealing major disagreements between the two nations on trade, technology and Beijing’s support for Iran.</description>
+      <pubDate>Fri, 25 Sep 2026 01:17:00 GMT</pubDate>
     </item>
     <item>
       <title>Iran Has a Secret Weapon in Its War With America: Help From China</title>
@@ -77,16 +83,16 @@
       <pubDate>Wed, 23 Sep 2026 17:17:00 GMT</pubDate>
     </item>
     <item>
-      <title>Xi Jinping Skipped One Dinner—and Sparked a Flurry of Questions About His Health</title>
-      <link>https://www.wsj.com/world/china/xi-jinping-skipped-one-dinnerand-sparked-a-flurry-of-questions-about-his-health-348b55b7?mod=rss_worldnews</link>
-      <description>The Chinese leader felt unwell at the recent Brics event in India, reviving worries over who would succeed him.</description>
-      <pubDate>Fri, 18 Sep 2026 23:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>In Trump, Xi Sees ‘Rare Window’ to Convince Taiwan That Resistance Is Futile</title>
       <link>https://www.wsj.com/world/china/trump-xi-taiwan-f236f228?mod=rss_worldnews</link>
       <description>Beijing is courting Taiwan’s opposition—and quietly helped stage its leader’s landmark visit to the mainland—to pull the island into its orbit.</description>
       <pubDate>Tue, 22 Sep 2026 01:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Xi Jinping Skipped One Dinner—and Sparked a Flurry of Questions About His Health</title>
+      <link>https://www.wsj.com/world/china/xi-jinping-skipped-one-dinnerand-sparked-a-flurry-of-questions-about-his-health-348b55b7?mod=rss_worldnews</link>
+      <description>The Chinese leader felt unwell at the recent Brics event in India, reviving worries over who would succeed him.</description>
+      <pubDate>Fri, 18 Sep 2026 23:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
