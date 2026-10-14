@@ -5,12 +5,6 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
-      <title>A Demographic Mirage May Be Distorting China’s Economic Ambitions</title>
-      <link>https://www.wsj.com/world/china/a-demographic-mirage-may-be-distorting-chinas-economic-ambitions-adf0bc92?mod=rss_worldnews</link>
-      <description>Plus, Beijing’s tepid recovery efforts, falling government bond yields and why China resists joining the developed world.</description>
-      <pubDate>Tue, 13 Oct 2026 10:55:00 GMT</pubDate>
-    </item>
-    <item>
       <title>U.S. Defense Startups Flock to Taiwan to Build China-Free Drones</title>
       <link>https://www.wsj.com/tech/u-s-defense-startups-flock-to-taiwan-to-build-china-free-drones-5c871c94?mod=rss_worldnews</link>
       <description>The emerging industry has the potential to serve the U.S. military while providing Taiwan with an arsenal that it sees as essential to its survival.</description>
@@ -21,6 +15,12 @@
       <link>https://www.wsj.com/world/asia/chinas-next-gray-zone-target-an-island-chain-critical-to-u-s-defense-of-taiwan-f4233818?mod=rss_worldnews</link>
       <description>Chinese academics and media have laid the groundwork for Beijing to claim the Batanes Islands, where U.S. troops frequently train.</description>
       <pubDate>Fri, 09 Oct 2026 18:51:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A Demographic Mirage May Be Distorting China’s Economic Ambitions</title>
+      <link>https://www.wsj.com/world/china/a-demographic-mirage-may-be-distorting-chinas-economic-ambitions-adf0bc92?mod=rss_worldnews</link>
+      <description>Plus, Beijing’s tepid recovery efforts, falling government bond yields and why China resists joining the developed world.</description>
+      <pubDate>Tue, 13 Oct 2026 10:55:00 GMT</pubDate>
     </item>
     <item>
       <title>China’s Weakening Economy Is Creating a Lost Generation</title>
@@ -45,12 +45,6 @@
       <link>https://www.wsj.com/world/china/china-is-offering-half-measures-to-its-mounting-economic-problems-3074211f?mod=rss_worldnews</link>
       <description>Beijing is pursuing big technological advances while shunning painful policy measures needed to fix the broader economy.</description>
       <pubDate>Thu, 08 Oct 2026 16:58:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>China’s Burned-Out Young Are Finding Something Unexpected in Mao</title>
-      <link>https://www.wsj.com/world/china/chinas-burned-out-young-are-finding-something-unexpected-in-mao-eff59d4b?mod=rss_worldnews</link>
-      <description>Plus, EU plans action against Chinese imports, Nike’s turnaround effort in China and a U.S. effort to loosen Beijing’s grip on critical minerals</description>
-      <pubDate>Tue, 06 Oct 2026 10:55:00 GMT</pubDate>
     </item>
     <item>
       <title>As China Encroaches, Even New Zealand Is Getting Serious About Its Military</title>
