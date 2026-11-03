@@ -5,12 +5,6 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
-      <title>The U.S. Once Dominated the World’s Oceans. China’s Xi is Changing That.</title>
-      <link>https://www.wsj.com/world/china/china-xi-maritime-dominance-ef5f5c5a?mod=rss_worldnews</link>
-      <description>A colossus in shipbuilding, China is undertaking one of the largest peacetime naval buildups in modern history.</description>
-      <pubDate>Mon, 02 Nov 2026 02:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Asia’s Factory Activity Buoyed by AI Demand, but Cracks Emerge</title>
       <link>https://www.wsj.com/economy/china-private-manufacturing-gauge-shows-steady-expansion-in-october-9e3be2ca?mod=rss_worldnews</link>
       <description>Demand growth was mainly driven by new product launches and improved production capabilities, with exporters reporting higher sales volumes.</description>
@@ -27,6 +21,12 @@
       <link>https://www.wsj.com/world/asia/china-economic-activity-loses-steam-sharply-in-october-5990ffe0?mod=rss_worldnews</link>
       <description />
       <pubDate>Sat, 31 Oct 2026 01:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The U.S. Once Dominated the World’s Oceans. China’s Xi is Changing That.</title>
+      <link>https://www.wsj.com/world/china/china-xi-maritime-dominance-ef5f5c5a?mod=rss_worldnews</link>
+      <description>A colossus in shipbuilding, China is undertaking one of the largest peacetime naval buildups in modern history.</description>
+      <pubDate>Mon, 02 Nov 2026 02:00:00 GMT</pubDate>
     </item>
     <item>
       <title>What I Learned in ‘Dalifornia,’ China’s Laid-Back Capital of Doing Nothing</title>
@@ -51,12 +51,6 @@
       <link>https://www.wsj.com/sports/soccer/kylian-mbappe-china-42d90e95?mod=rss_worldnews</link>
       <description>The striker was dropped by Chinese sponsors after laughing at an image of his face on the former Chinese leader’s body and referring to him as a “dictator.”</description>
       <pubDate>Tue, 27 Oct 2026 19:48:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>China Claims Strong Economic Growth, but Skeptics Question Official Figures</title>
-      <link>https://www.wsj.com/economy/china-claims-strong-economic-growth-but-skeptics-question-official-figures-22e583db?mod=rss_worldnews</link>
-      <description>Beijing has reported robust growth this year, but a growing chorus of economists are asking if the numbers are accurate.</description>
-      <pubDate>Tue, 27 Oct 2026 17:08:00 GMT</pubDate>
     </item>
     <item>
       <title>As China Encroaches, Even New Zealand Is Getting Serious About Its Military</title>
