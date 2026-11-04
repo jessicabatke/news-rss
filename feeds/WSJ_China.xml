@@ -5,12 +5,6 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
-      <title>‘Broken China’ Review: A Mirage of Growth</title>
-      <link>https://www.wsj.com/world/china/broken-china-review-a-mirage-of-growth-67fe6d8e?mod=rss_worldnews</link>
-      <description>Beijing touts rosy statistics, but China’s leaders have clogged the country’s banks and local governments with unproductive investments.</description>
-      <pubDate>Tue, 03 Nov 2026 20:51:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Asia’s Factory Activity Buoyed by AI Demand, but Cracks Emerge</title>
       <link>https://www.wsj.com/economy/china-private-manufacturing-gauge-shows-steady-expansion-in-october-9e3be2ca?mod=rss_worldnews</link>
       <description>Demand growth was mainly driven by new product launches and improved production capabilities, with exporters reporting higher sales volumes.</description>
@@ -21,6 +15,12 @@
       <link>https://www.wsj.com/tech/chinese-executive-close-to-nvidia-ceo-suspected-of-giving-china-information-798eb6a1?mod=rss_worldnews</link>
       <description>Investigators believed the woman, Alice Huang, was recruited based on her relationship with Jensen Huang.</description>
       <pubDate>Sat, 31 Oct 2026 12:47:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>‘Broken China’ Review: A Mirage of Growth</title>
+      <link>https://www.wsj.com/world/china/broken-china-review-a-mirage-of-growth-67fe6d8e?mod=rss_worldnews</link>
+      <description>Beijing touts rosy statistics, but China’s leaders have clogged the country’s banks and local governments with unproductive investments.</description>
+      <pubDate>Tue, 03 Nov 2026 20:51:00 GMT</pubDate>
     </item>
     <item>
       <title>China Stock Market’s Hidden Problem: Foreign Investors Get a Different Truth</title>
@@ -39,12 +39,6 @@
       <link>https://www.wsj.com/world/china/what-i-learned-in-dalifornia-chinas-laid-back-capital-of-doing-nothing-2fd1266d?mod=rss_worldnews</link>
       <description>A trend among China’s youth of fleeing the rat race and doing the bare minimum has prompted concern in Beijing. But most young Chinese do want to work.</description>
       <pubDate>Sun, 01 Nov 2026 02:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>China Scoops Up Data That Could Aid Its Forces in Waters Around Taiwan</title>
-      <link>https://www.wsj.com/world/china/china-scoops-up-data-that-could-aid-its-forces-in-waters-around-taiwan-7acaf563?mod=rss_worldnews</link>
-      <description>A flurry of Chinese ships were recently sent to map the seabed in research that Taiwan says aids “battlespace preparation.”</description>
-      <pubDate>Fri, 30 Oct 2026 20:55:00 GMT</pubDate>
     </item>
     <item>
       <title>As China Encroaches, Even New Zealand Is Getting Serious About Its Military</title>
