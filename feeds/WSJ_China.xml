@@ -5,10 +5,28 @@
     <link>https://www.wsj.com/world</link>
     <description>Custom RSS feed for WSJ_China</description>
     <item>
-      <title>Commerce Department Rule Aims to Further Limit Chip Shipments to China</title>
-      <link>https://www.wsj.com/world/asia/commerce-department-rule-aims-to-further-limit-chip-shipments-to-china-c6244c33?mod=rss_worldnews</link>
-      <description>Plus, Trump said he might meet with Kim Jong Un this week, and Kalshi bought a securities firm to expand into stock trading.</description>
-      <pubDate>Mon, 16 Nov 2026 22:35:00 GMT</pubDate>
+      <title>Why Neither Trump Nor Xi Is Likely to Raise Nvidia at Their Summit</title>
+      <link>https://www.wsj.com/world/china/why-neither-trump-nor-xi-is-likely-to-raise-nvidia-at-their-summit-5b93bc1a?mod=rss_worldnews</link>
+      <description>Plus, a former Harvard professor is recruiting Chinese-born U.S. scholars to return, amid a growing exodus of academic talent to China.</description>
+      <pubDate>Tue, 17 Nov 2026 11:55:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Alice Huang’s Husband Built a Data-Center Empire Backed by the Chinese State</title>
+      <link>https://www.wsj.com/world/china/alice-huangs-husband-built-a-data-center-empire-backed-by-the-chinese-state-78389c9a?mod=rss_worldnews</link>
+      <description>Kang Wei developed the business while his wife was involved with Nvidia’s then-CEO.</description>
+      <pubDate>Tue, 17 Nov 2026 02:22:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Opinion | Against China, America’s Current Tumult Has Advantages</title>
+      <link>https://www.wsj.com/opinion/against-china-americas-current-tumult-has-advantages-cdf2769b?mod=rss_worldnews</link>
+      <description>Beijing certainly means to exploit it, but our dynamism could still triumph in the long run.</description>
+      <pubDate>Mon, 16 Nov 2026 17:19:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trump’s Advisers Are at War Over China Ahead of Xi Summit</title>
+      <link>https://www.wsj.com/world/china/trumps-advisers-are-at-war-over-china-ahead-of-xi-summit-90995398?mod=rss_worldnews</link>
+      <description>Before departing Washington, Trump said some on his team want friendly ties with China while others want “a blowup.”</description>
+      <pubDate>Tue, 17 Nov 2026 02:46:00 GMT</pubDate>
     </item>
     <item>
       <title>Nvidia Scandal Threatens China’s Charm Offensive Ahead of Trump Summit</title>
@@ -23,12 +41,6 @@
       <pubDate>Mon, 16 Nov 2026 06:59:00 GMT</pubDate>
     </item>
     <item>
-      <title>Opinion | Against China, America’s Current Tumult Has Advantages</title>
-      <link>https://www.wsj.com/opinion/against-china-americas-current-tumult-has-advantages-cdf2769b?mod=rss_worldnews</link>
-      <description>Beijing certainly means to exploit it, but our dynamism could still triumph in the long run.</description>
-      <pubDate>Mon, 16 Nov 2026 17:19:00 GMT</pubDate>
-    </item>
-    <item>
       <title>China Poached This Top Harvard Professor. Now He Wants Others to Join Him.</title>
       <link>https://www.wsj.com/world/china/china-poached-this-top-harvard-professor-now-he-wants-others-to-join-him-1e03222d?mod=rss_worldnews</link>
       <description>Liu Jun’s journey, from Beijing to Boston and back, exemplifies the exodus of Chinese scholars from the U.S.</description>
@@ -39,18 +51,6 @@
       <link>https://www.wsj.com/world/china/the-massive-chinese-spy-operation-targeting-western-tech-and-ai-cd58ff86?mod=rss_worldnews</link>
       <description>Plus, Democrats ordered Elon Musk to preserve records related to Ukraine’s Starlink access, and our columnist hunts for a crisper apple.</description>
       <pubDate>Sat, 14 Nov 2026 12:06:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Behind the Nvidia Affair Sits a Vast Chinese Spying Machine</title>
-      <link>https://www.wsj.com/world/nvidia-china-espionage-spy-hacking-ai-174c366b?mod=rss_worldnews</link>
-      <description>Beijing is deploying the world’s biggest intelligence-gathering operation to bolster its tech industry. U.S. officials worry Jensen Huang was ensnared.</description>
-      <pubDate>Sat, 14 Nov 2026 02:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trump to Hold Talks With China’s Xi and Russia’s Putin Next Week</title>
-      <link>https://www.wsj.com/world/china/trump-to-hold-talks-with-chinas-xi-and-russias-putin-next-week-29a58e91?mod=rss_worldnews</link>
-      <description>The unprecedented three-way meeting will be held in China’s tech hub of Shenzhen.</description>
-      <pubDate>Sat, 14 Nov 2026 01:34:00 GMT</pubDate>
     </item>
     <item>
       <title>China’s Push for Influence in the South Pacific Is Running Into Resistance</title>
@@ -69,6 +69,18 @@
       <link>https://www.wsj.com/world/the-u-s-navys-new-insurance-policy-for-war-with-china-is-an-australian-base-764af616?mod=rss_worldnews</link>
       <description>The Pentagon plans to deploy submarines to an expanding facility in allies’ strategy to deter Beijing.</description>
       <pubDate>Sun, 08 Feb 2026 03:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Commerce Department Rule Aims to Further Limit Chip Shipments to China</title>
+      <link>https://www.wsj.com/world/asia/commerce-department-rule-aims-to-further-limit-chip-shipments-to-china-c6244c33?mod=rss_worldnews</link>
+      <description>Plus, Trump said he might meet with Kim Jong Un this week, and Kalshi bought a securities firm to expand into stock trading.</description>
+      <pubDate>Mon, 16 Nov 2026 22:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Alice Huang’s Husband Built a Data-Center Empire Backed by the Chinese State</title>
+      <link>https://www.wsj.com/world/china/alice-huangs-husband-built-a-data-center-empire-backed-by-the-chinese-state-78389c9a?mod=rss_worldnews</link>
+      <description>Kang Wei developed the business while his wife was involved with Nvidia’s then-CEO.</description>
+      <pubDate>Tue, 17 Nov 2026 02:22:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
